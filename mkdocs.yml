@@ -3,3 +3,21 @@ site_name: Tim MacKay
 theme:
   name: material
   language: en
+  palette:
+    # palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        name: light mode
+        icon: material/lightbulb
+      primary: teal
+      accent: teal
+
+    # palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        name: dark mode
+        icon: material/lightbulb-outline
+      primary: teal
+      accent: teal
