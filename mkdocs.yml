@@ -3,7 +3,9 @@ site_name: Tim MacKay
 theme:
   name: material
   language: en
-  
+  icon:
+    logo: material/bookshelf
+
   font:
     text: Roboto
     code: Roboto Mono
