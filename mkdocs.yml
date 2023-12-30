@@ -3,6 +3,11 @@ site_name: Tim MacKay
 theme:
   name: material
   language: en
+  
+  font:
+    text: Roboto
+    code: Roboto Mono
+  
   palette:
     # palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
