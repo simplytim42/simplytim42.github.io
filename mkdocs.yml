@@ -2,3 +2,4 @@ site_name: Tim MacKay
 
 theme:
   name: material
+  language: en
