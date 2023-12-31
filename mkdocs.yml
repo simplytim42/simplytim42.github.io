@@ -1,4 +1,5 @@
 site_name: Tim MacKay
+copyright: Copyright &copy; 2024 Tim MacKay
 
 theme:
   name: material
@@ -31,6 +32,7 @@ theme:
       accent: teal
 
   features:
+    - navigation.footer
     # enable XHR loading
     - navigation.instant
     - navigation.instant.progress
@@ -42,3 +44,14 @@ theme:
 
     # scroll the sidebar table of contents as the user scrolls
     - toc.follow
+  
+extra:
+  social:
+    - icon: simple/github
+      link: https://github.com/simplytim42
+      name: Tim's Github
+
+    - icon: simple/linkedin
+      link: https://www.linkedin.com/in/tim-mackay-dev
+      name: Tim's LinkedIn
+
