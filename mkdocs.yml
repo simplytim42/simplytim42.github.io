@@ -64,3 +64,9 @@ markdown_extensions:
   # Python Markdown Extensions
   - pymdownx.highlight
   - pymdownx.superfences
+
+  # enable abbreviations in a glossary
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
