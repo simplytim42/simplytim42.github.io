@@ -55,3 +55,12 @@ extra:
       link: https://www.linkedin.com/in/tim-mackay-dev
       name: Tim's LinkedIn
 
+markdown_extensions:
+  # Python Markdown
+  - toc:
+      permalink: true
+      title: On this page
+
+  # Python Markdown Extensions
+  - pymdownx.highlight
+  - pymdownx.superfences
