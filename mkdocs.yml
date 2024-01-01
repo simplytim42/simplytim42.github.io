@@ -49,13 +49,17 @@ theme:
   
 extra:
   social:
-    - icon: simple/github
+    - icon: fontawesome/brands/github
       link: https://github.com/simplytim42
       name: Tim's Github
 
-    - icon: simple/linkedin
+    - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/tim-mackay-dev
       name: Tim's LinkedIn
+
+    - icon: fontawesome/regular/envelope
+      link: mailto:cavil.octet.0w@icloud.com
+      name: Tim's Email
 
 markdown_extensions:
   # Python Markdown
