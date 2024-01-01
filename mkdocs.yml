@@ -63,6 +63,10 @@ markdown_extensions:
       permalink: true
       title: On this page
 
+  # enable assorted functionality
+  - attr_list
+  - md_in_html
+
   # enable callouts
   - admonition
 
