@@ -22,9 +22,9 @@ icon: material/face-man
 
 
 ## Summary
-Highly skilled Full Stack Developer from an aeronautical background with 14 years of experience in technical roles within UK Defence, specialising in Software Development since 2018. Dedicated to the craftsmanship of clean and maintainable code.
+Highly skilled Full Stack Developer from an aeronautical background with 14 years of experience in technical roles within UK Defence.
 
-Excellent communication skills :speaking_head: with experience briefing senior executives. Experience working in teams using SCRUM. Experience keeping legacy systems operational as well as implementing cutting-edge technologies. Proven track record of success in improving processes and implementing innovative solutions.
+Specialised in Software Development since 2018. Dedicated to the craftsmanship of clean and maintainable code. Excellent communication skills :speaking_head: with experience briefing senior executives. Experience working in teams using Scrum. Experience keeping legacy systems operational as well as implementing cutting-edge technologies. Proven track record of success in improving processes and implementing innovative solutions.
 
 
 ## Skills & Expertise
