@@ -6,3 +6,4 @@ site
 
 # system files
 .DS_Store
+.vscode
