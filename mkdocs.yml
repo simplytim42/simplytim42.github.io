@@ -3,6 +3,9 @@ site_author: Tim MacKay
 site_description: Tim MacKay's personal website
 copyright: Copyright &copy; 2024 Tim MacKay
 
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   name: material
   language: en
@@ -13,6 +16,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+  
   
   palette:
     # palette toggle for light mode
@@ -66,7 +70,7 @@ markdown_extensions:
   - toc:
       permalink: true
       title: On this page
-
+  - footnotes
   # enable assorted functionality
   - attr_list
   - md_in_html
@@ -76,7 +80,7 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-  # enable callouts
+  # enable call-outs
   - admonition
 
   # Python Markdown Extensions
