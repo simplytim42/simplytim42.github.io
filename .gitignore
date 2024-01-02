@@ -1,0 +1,9 @@
+# virtual environment
+venv
+
+# build files
+site
+
+# system files
+.DS_Store
+.vscode
