@@ -25,8 +25,8 @@ theme:
       toggle:
         name: light mode
         icon: material/lightbulb
-      primary: deep orange
-      accent: deep orange
+      primary: teal
+      accent: teal
 
     # palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -34,8 +34,8 @@ theme:
       toggle:
         name: dark mode
         icon: material/lightbulb-outline
-      primary: deep orange
-      accent: deep orange
+      primary: teal
+      accent: teal
 
   features:
     - navigation.footer
