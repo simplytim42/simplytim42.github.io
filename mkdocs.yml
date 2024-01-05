@@ -17,7 +17,6 @@ theme:
     text: Roboto
     code: Roboto Mono
   
-  
   palette:
     # palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -50,7 +49,7 @@ theme:
 
     # scroll the sidebar table of contents as the user scrolls
     - toc.follow
-  
+
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -64,6 +63,10 @@ extra:
     - icon: fontawesome/regular/envelope
       link: mailto:cavil.octet.0w@icloud.com
       name: Tim's Email
+  
+  analytics:
+    provider: google
+    property: G-K1E8T25M5D
 
 markdown_extensions:
   # Python Markdown
@@ -92,3 +95,6 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
+
+plugins:
+  - search
