@@ -38,17 +38,22 @@ theme:
 
   features:
     - navigation.footer
+  
     # enable XHR loading
     - navigation.instant
     - navigation.instant.progress
     # add button to jump to top of page
     - navigation.top
-    
+
     # update URL with anchors as user scrolls
     - navigation.tracking
 
     # scroll the sidebar table of contents as the user scrolls
     - toc.follow
+
+    # enhance search
+    - search.suggest
+    - search.highlight
 
 extra:
   social:
