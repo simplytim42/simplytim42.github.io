@@ -38,7 +38,7 @@ Specialised in Software Development since 2018. Dedicated to the craftsmanship o
         - :simple-fastapi:  FastAPI
         - :simple-pydantic: Pydantic
         - :simple-sqlalchemy: SQLAlchemy
-    - :simple-mysql: MySQL
+    - :material-database: SQL
 
 - __Frontend__
 
@@ -65,7 +65,7 @@ Specialised in Software Development since 2018. Dedicated to the craftsmanship o
     ---
 
     - :simple-owasp: OWASP Top 10
-    - :fontawesome-solid-arrows-spin: SDLC
+    - :fontawesome-solid-bolt-lightning: Agile
     - :simple-speedtest: Scrum
     - :material-laptop: Mac | Linux | Windows
 
