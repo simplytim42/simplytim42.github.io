@@ -1,7 +1,8 @@
 ---
 title: Bio
 description: Details of my professional experience
-icon: material/face-man
+hide:
+  - footer
 ---
 
 <figure markdown>

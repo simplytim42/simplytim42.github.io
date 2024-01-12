@@ -1,22 +1,25 @@
+# Project Information
 site_name: Tim MacKay
 site_author: Tim MacKay
 site_description: Tim MacKay's personal website
+site_url: https://timmackay.com
+
+# Copyright
 copyright: Copyright &copy; 2024 Tim MacKay
 
+# Custom CSS
 extra_css:
   - stylesheets/extra.css
 
+# Configuration
 theme:
   name: material
   language: en
-
   icon:
     logo: material/bookshelf
-
   font:
     text: Roboto
     code: Roboto Mono
-  
   palette:
     # palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -26,7 +29,6 @@ theme:
         icon: material/lightbulb
       primary: deep orange
       accent: deep orange
-
     # palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -35,44 +37,41 @@ theme:
         icon: material/lightbulb-outline
       primary: deep orange
       accent: deep orange
-
   features:
     - navigation.footer
-  
+    # - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
     # enable XHR loading
     - navigation.instant
     - navigation.instant.progress
     # add button to jump to top of page
     - navigation.top
-
     # update URL with anchors as user scrolls
     - navigation.tracking
-
     # scroll the sidebar table of contents as the user scrolls
     - toc.follow
-
     # enhance search
     - search.suggest
     - search.highlight
 
+# Additional Configuration
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/simplytim42
       name: Tim's Github
-
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/tim-mackay-dev
       name: Tim's LinkedIn
-
     - icon: fontawesome/regular/envelope
       link: mailto:cavil.octet.0w@icloud.com
       name: Tim's Email
-  
   analytics:
     provider: google
     property: G-K1E8T25M5D
 
+# Extensions
 markdown_extensions:
   # Python Markdown
   - toc:
@@ -82,24 +81,34 @@ markdown_extensions:
   # enable assorted functionality
   - attr_list
   - md_in_html
-
   # enable inline icons an emoji
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
   # enable call-outs
   - admonition
-
   # Python Markdown Extensions
   - pymdownx.highlight
   - pymdownx.superfences
-
   # enable abbreviations in a glossary
   - abbr
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
 
+# Plugins
 plugins:
   - search
+  - blog:
+      post_excerpt: required
+      categories_allowed:
+        - Lessons Identified
+      # don't show the draft posts when building the site for prod
+      # this is the default but I'm being explicit in case it changes in the future
+      draft: false
+
+# Site Navigation
+nav:
+  - 'index.md'
+  # - Blog:
+  #   - 'blog/index.md'
