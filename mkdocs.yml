@@ -112,3 +112,5 @@ nav:
   - 'index.md'
   # - Blog:
   #   - 'blog/index.md'
+not_in_nav: |
+  health-check.html
