@@ -6,7 +6,7 @@ hide:
 ---
 
 <figure markdown>
-  ![a photo of Tim MacKay](img/me.png){ width="200" }
+  ![a photo of Tim MacKay](https://github.com/simplytim42.png){ width="200" }
 </figure>
 
 
