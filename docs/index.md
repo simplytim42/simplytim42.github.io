@@ -11,6 +11,10 @@ hide:
 
 
 ## Notable Experiences
+2024 — Successfully created and launched :rocket: this website!
+
+---
+
 2023 — Conference Speaker :microphone2: at DSTL [AI Fest 5](https://aifest.online-event.co/registration/ai-fest-2), lauded as a "_confident, clear communicator_" delivering to hundreds of people attending on premise and remotely
 
 ---
