@@ -69,7 +69,7 @@ extra:
       name: Tim's Email
   analytics:
     provider: google
-    property: G-K1E8T25M5D
+    # property: G-K1E8T25M5D
 
 # Extensions
 markdown_extensions:

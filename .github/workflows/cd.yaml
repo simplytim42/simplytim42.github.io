@@ -29,5 +29,6 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+      - run: python enable_analytics.py
       - run: pip install mkdocs-material 
       - run: mkdocs gh-deploy --force
