@@ -4,7 +4,7 @@ with open("mkdocs.yml", "r") as file:
     lines = file.readlines()
 
 lines = [
-    re.sub(r"# property: G-K1E8T25M5D", "property: G-K1E8T25M5D", line)
+    re.sub(r"# property: G-8LCP0TZS4Y", "property: G-8LCP0TZS4Y", line)
     for line in lines
 ]
 
