@@ -1,9 +1,10 @@
 ---
-title: Bio
+title: Home
 description: Details of my professional experience
 hide:
   - footer
 ---
+# Bio
 
 <figure markdown>
   ![a photo of Tim MacKay](https://github.com/simplytim42.png){ width="200" }
