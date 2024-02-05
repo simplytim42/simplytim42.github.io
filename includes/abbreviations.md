@@ -1,5 +1,4 @@
 <!-- Tech Speak -->
-*[AI]: Artificial Intelligence
 *[API]: Application Programming Interface
 *[APIs]: Application Programming Interface
 *[CI]: Continuous Integration

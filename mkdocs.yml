@@ -16,7 +16,7 @@ theme:
   name: material
   language: en
   icon:
-    logo: material/bookshelf
+    logo: fontawesome/solid/book
   font:
     text: Roboto
     code: Roboto Mono
@@ -101,8 +101,11 @@ plugins:
   - search
   - blog:
       post_excerpt: required
+      post_url_date_format: yyyy
       categories_allowed:
         - Lessons Identified
+        - Artificial Intelligence
+        - Contemplations
       # don't show the draft posts when building the site for prod
       # this is the default but I'm being explicit in case it changes in the future
       draft: false
