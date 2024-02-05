@@ -16,7 +16,7 @@ theme:
   name: material
   language: en
   icon:
-    logo: material/bookshelf
+    logo: fontawesome/solid/book
   font:
     text: Roboto
     code: Roboto Mono
