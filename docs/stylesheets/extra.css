@@ -1,3 +1,7 @@
 .grid.cards ul {
   list-style-type: none;
 }
+
+div.my-name {
+  text-align: center;
+}
