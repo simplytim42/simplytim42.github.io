@@ -4,7 +4,9 @@ description: Details of my professional experience
 hide:
   - footer
 ---
-# Bio
+<div class="my-name" markdown>
+# Tim MacKay
+</div>
 
 <figure markdown>
   ![a photo of Tim MacKay](https://github.com/simplytim42.png){ width="200" }
