@@ -39,7 +39,7 @@ theme:
       accent: deep orange
   features:
     - navigation.footer
-    # - navigation.tabs
+    - navigation.tabs
     - navigation.sections
     - navigation.indexes
     # enable XHR loading
@@ -113,7 +113,7 @@ plugins:
 # Site Navigation
 nav:
   - 'index.md'
-  # - Blog:
-  #   - 'blog/index.md'
+  - Blog:
+    - 'blog/index.md'
 not_in_nav: |
   health-check.html
