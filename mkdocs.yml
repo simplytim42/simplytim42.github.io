@@ -11,6 +11,10 @@ copyright: Copyright &copy; 2024 Tim MacKay
 extra_css:
   - stylesheets/extra.css
 
+# Additional dirs to auto-load changes
+watch:
+  - includes
+
 # Configuration
 theme:
   name: material
