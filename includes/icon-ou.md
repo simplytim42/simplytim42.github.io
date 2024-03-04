@@ -1,0 +1,1 @@
+:fontawesome-solid-graduation-cap:{ title="Open University Module" }

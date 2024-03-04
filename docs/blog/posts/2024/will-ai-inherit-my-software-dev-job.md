@@ -25,7 +25,7 @@ Work wasn't "work" anymore: it was adventure; it was exploration; it was discove
 
 There were two significant moments when I realised change was on the doorstep:
 
-1. A demo in 2022 of an early version of Github Copilot. You typed what you wanted the code to do and then watched as it magically generated before your eyes. I remember thinking that we had automated away the fun part of coding. Ironically, I have grown to love Github Copilot and often use it as an autocomplete for my thought process :shushing_face: But it does still fall over with new features of languages/frameworks—AI is only as up-to-date as its training data.
+1. A demo in 2022 of an early version of Github Copilot. You typed what you wanted the code to do and then watched as it magically generated before your eyes. I remember thinking that we had automated away the fun part of coding. Ironically, I have grown to love Github Copilot and often use it as an autocomplete for my thought process :shushing_face: But it does still fall over with new features of languages/frameworks — AI is only as up-to-date as its training data.
 
 2. The first time I held a technical conversation with ChatGPT and the weight of what that meant. It helped me understand a new concept I was grappling with. I was able to validate my comprehension (or lack thereof) by repeating the concept back in my own words and having ChatGPT confirm or correct my understanding.
 
@@ -35,12 +35,12 @@ This all leads to the question on my mind: _if Artificial Intelligence can be so
 
 I don't actually know the answer to this. I'm not sure anyone does...yet. If the past has taught us anything it's that the future is hard to predict. But I think it's important to contemplate potential outcomes.
 
-In the next few years, Artificial Intelligence could take on a role comparable to an aircraft's autopilot system: it'll do most of the heavy lifting but won't be trusted to do it unconditionally. Pilots in aircraft often do very little actual flying. They usually control take-off and landing. Then for the rest of the flight they monitor, make adjustments if required and—most importantly—are fully trained to take control in case of emergencies.
+In the next few years, Artificial Intelligence could take on a role comparable to an aircraft's autopilot system: it'll do most of the heavy lifting but won't be trusted to do it unconditionally. Pilots in aircraft often do very little actual flying. They usually control take-off and landing. Then for the rest of the flight they monitor, make adjustments if required and — most importantly — are fully trained to take control in case of emergencies.
 
 A day in my future dev-life might look like this:
 
 1. Tell AI to generate feature X to solve problem Y
-1. Look over generated code—and its related unit tests, of course—to verify it works as intended. If not, adjust and repeat step 1 :warning: _potential infinite loop for a stubborn mind_ :warning:
+1. Look over generated code — and its related unit tests, of course — to verify it works as intended. If not, adjust and repeat step 1 :warning: _potential infinite loop for a stubborn mind_ :warning:
 1. If all is well, merge code into codebase
 1. If all is not well, oil programming hinges and put fingers to keyboard like I did in the good old days. Maybe ask ChatGPT to help...ahem
 
@@ -59,9 +59,9 @@ For a lot of companies, the developers have to engage with end-users, elicit the
 
 Developers communicate complex technical concepts and their business value to non-technical stakeholders; this may serve as the critical determining factor for the allocation of funds.
 
-Consider solutions and implementations that are the result of two humans chatting casually about what they’re doing—the old “watercooler effect”. These situations are founded on the coming together of two different beings, often with drastically different outlooks on life. My music-teacher wife often provides a perspective on a problem that I hadn’t even considered.
+Consider solutions and implementations that are the result of two humans chatting casually about what they’re doing — the old “watercooler effect”. These situations are founded on the coming together of two different beings, often with drastically different outlooks on life. My music-teacher wife often provides a perspective on a problem that I hadn’t even considered.
 
-What about leadership? Mentoring junior developers and onboarding new members of a team are obvious examples of leadership. But the developer who consistently includes general refactorings into their workload understands the value of quiet leadership—the kind that might get overlooked. They do it anyway because technical debt can strangle a project.
+What about leadership? Mentoring junior developers and onboarding new members of a team are obvious examples of leadership. But the developer who consistently includes general refactorings into their workload understands the value of quiet leadership — the kind that might get overlooked. They do it anyway because technical debt can strangle a project.
 
 The role of a developer is rooted in technical skills, but it's the soft skills that bolster a team and keep business goals and technology aligned. AI is currently great at the former, but not so much the latter.
 
@@ -75,7 +75,7 @@ Programming languages have "Core Devs": teams of people who maintain, update and
 
 Maybe AI will do away with the need for programming languages and default to writing [machine code](https://en.wikipedia.org/wiki/Machine_code). Arguably, all languages are designed to be human-readable and add overhead as a result. If a human doesn't need to read it, then why bother? You'll get more efficient code.
 
-_I hope this **never** happens—no matter the autonomy given to a system, we should always be able to verify what it's doing and why._
+_I hope this **never** happens — no matter the autonomy given to a system, we should always be able to verify what it's doing and why._
 
 How will innovation fare? Innovation is usually driven by determined people who are convinced they know how and why something needs to change. They often face large amounts of push back until the world either accepts the inevitable or gets onboard with the idea. Could AI innovations be as impactful as the lightbulb, the telephone or the internet?
 

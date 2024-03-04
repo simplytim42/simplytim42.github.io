@@ -42,6 +42,7 @@ theme:
       primary: deep orange
       accent: deep orange
   features:
+    - content.tooltips
     - navigation.footer
     - navigation.tabs
     - navigation.sections
@@ -71,6 +72,12 @@ extra:
     - icon: fontawesome/regular/envelope
       link: mailto:cavil.octet.0w@icloud.com
       name: Tim's Email
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@tim_mackay
+      name: Tim's Medium Page
+    - icon: simple/devdotto
+      link: https://dev.to/simplytim42
+      name: Tim's Dev.to Page
   analytics:
     provider: google
     # property: G-8LCP0TZS4Y
@@ -94,6 +101,10 @@ markdown_extensions:
   # Python Markdown Extensions
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.details
+
+  - pymdownx.tasklist:
+      custom_checkbox: true
   # enable abbreviations in a glossary
   - abbr
   - pymdownx.snippets:
@@ -103,6 +114,7 @@ markdown_extensions:
 # Plugins
 plugins:
   - search
+  - glightbox:
   - blog:
       post_excerpt: required
       post_url_date_format: yyyy
@@ -117,6 +129,7 @@ plugins:
 # Site Navigation
 nav:
   - 'index.md'
+  - 'about.md'
   - Blog:
     - 'blog/index.md'
 not_in_nav: |
