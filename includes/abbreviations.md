@@ -3,7 +3,9 @@
 *[APIs]: Application Programming Interface
 *[CI]: Continuous Integration
 *[CD]: Continuous Delivery or Continuous Deployment
+*[CS]: Computer Science
 *[CSS]: Cascading Style Sheets
+*[GPT]: Generative Pre-trained Transformer
 *[HTML]: Hyper Text Markup Language
 *[OWASP]: Open Worldwide Application Security Project
 *[PHP]: PHP: Hypertext Preprocessor

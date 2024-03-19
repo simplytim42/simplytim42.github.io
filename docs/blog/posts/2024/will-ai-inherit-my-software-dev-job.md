@@ -1,7 +1,6 @@
 ---
 authors:
   - tim
-draft: false
 date: 2024-02-08
 categories:
   - Artificial Intelligence
