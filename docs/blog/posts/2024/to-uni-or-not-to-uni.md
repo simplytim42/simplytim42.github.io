@@ -20,7 +20,7 @@ I have proven to myself that I can make it as a developer without formal educati
 
 <!-- more -->
 
-This dilemma has played on my mind for a while now. I want knowledge. I want to identify unknown unknowns. I am attracted to the structure that education provides. But I don't want the financial burden of university — I especially don't want to pay for modules I have essentially obtained through personal study and experience.
+This dilemma has played on my mind for a while now. I want knowledge. I want to identify [unknown unknowns](https://en.wikipedia.org/wiki/There_are_unknown_unknowns). I am attracted to the structure that education provides. But I don't want the financial burden of university — I especially don't want to pay for modules I have essentially obtained through personal study and experience.
 
 An idea began to grow: could I do this on my own? :thinking:
 
