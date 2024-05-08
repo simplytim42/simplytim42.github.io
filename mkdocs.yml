@@ -43,9 +43,7 @@ theme:
       accent: deep orange
   features:
     - content.tooltips
-    - navigation.footer
     - navigation.tabs
-    - navigation.sections
     - navigation.indexes
     # enable XHR loading
     - navigation.instant
@@ -114,7 +112,7 @@ markdown_extensions:
 # Plugins
 plugins:
   - search
-  - glightbox:
+  - drawio
   - blog:
       post_excerpt: required
       post_url_date_format: yyyy
@@ -128,9 +126,16 @@ plugins:
 
 # Site Navigation
 nav:
-  - 'index.md'
-  - 'about.md'
+  - index.md
+  - Learn:
+    - Study Skills:
+      - learn/study-skills/index.md
+      - learn/study-skills/focused-and-diffuse.md
+      - learn/study-skills/chunky.md
+      - learn/study-skills/spaced-repetition.md
+      - learn/study-skills/memory.md
   - Blog:
-    - 'blog/index.md'
+    - blog/index.md
+  - about.md
 not_in_nav: |
   health-check.html
