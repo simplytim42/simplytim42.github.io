@@ -3,7 +3,6 @@ title: Home
 description: Welcome to my site
 hide:
   - navigation
-  - footer
 ---
 # The Self-Taught Degree
 
@@ -239,10 +238,10 @@ _Every resource in this stage is independent and can be completed at any time._
 
 
 ### Study Skills
-- [x] [A Mind for Numbers: How to Excel at Math and Science ](https://www.amazon.co.uk/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X?&_encoding=UTF8&tag=mackaysoftwar-21&linkCode=ur2&linkId=02c118ff6d6e79e9397e565dd2018776&camp=1634&creative=6738){:target="_blank"}
+- [x] [A Mind for Numbers: How to Excel at Math and Science](https://www.amazon.co.uk/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X?&_encoding=UTF8&tag=mackaysoftwar-21&linkCode=ur2&linkId=02c118ff6d6e79e9397e565dd2018776&camp=1634&creative=6738){:target="_blank"}
 --8<-- "includes/icon-book.md"
 
-- [ ] [How to Improve your Critical Thinking & Reflective Skills ](https://www.amazon.co.uk/Improve-Critical-Thinking-Reflective-Smarter/dp/0273773321?&_encoding=UTF8&tag=mackaysoftwar-21&linkCode=ur2&linkId=d379d305deef182c4fce92f8f6c068e6&camp=1634&creative=6738){:target="_blank"}
+- [ ] [How to Improve your Critical Thinking & Reflective Skills](https://www.amazon.co.uk/Improve-Critical-Thinking-Reflective-Smarter/dp/0273773321?&_encoding=UTF8&tag=mackaysoftwar-21&linkCode=ur2&linkId=d379d305deef182c4fce92f8f6c068e6&camp=1634&creative=6738){:target="_blank"}
 --8<-- "includes/icon-book.md"
 
 - [ ] [How to Write Essays & Assignments](https://www.amazon.co.uk/How-Write-Essays-Assignments-UEL-ebook/dp/B00JEAG7MW?&_encoding=UTF8&tag=mackaysoftwar-21&linkCode=ur2&linkId=8a6a411419f7628e1173f6c72c245bc1&camp=1634&creative=6738){:target="_blank"}

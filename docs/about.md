@@ -3,7 +3,6 @@ title: About Me
 description: Details of my professional experience
 hide:
   - navigation
-  - footer
 ---
 <div class="my-name" markdown>
 # Tim MacKay

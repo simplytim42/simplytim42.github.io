@@ -1,5 +1,1 @@
----
-hide:
-  - footer
----
 # Blog
