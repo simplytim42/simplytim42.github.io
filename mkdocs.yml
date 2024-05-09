@@ -43,7 +43,6 @@ theme:
       accent: deep orange
   features:
     - content.tooltips
-    - navigation.footer
     - navigation.tabs
     - navigation.indexes
     # enable XHR loading
@@ -136,7 +135,7 @@ nav:
       - learn/study_skills/spaced-repetition.md
       - learn/study_skills/memory.md
   - Blog:
-    - 'blog/index.md'
+    - blog/index.md
   - about.md
 not_in_nav: |
   health-check.html

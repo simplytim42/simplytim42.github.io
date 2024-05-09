@@ -7,6 +7,8 @@
 *[CSS]: Cascading Style Sheets
 *[GPT]: Generative Pre-trained Transformer
 *[HTML]: Hyper Text Markup Language
+*[LLM]: Large Language Model
+*[LLMs]: Large Language Models
 *[OWASP]: Open Worldwide Application Security Project
 *[PHP]: PHP: Hypertext Preprocessor
 *[QA]: Quality Assurance
