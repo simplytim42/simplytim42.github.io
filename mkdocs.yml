@@ -112,7 +112,7 @@ markdown_extensions:
 # Plugins
 plugins:
   - search
-  - drawio
+  - glightbox
   - blog:
       post_excerpt: required
       post_url_date_format: yyyy
@@ -129,11 +129,11 @@ nav:
   - index.md
   - Learn:
     - Study Skills:
-      - learn/study-skills/index.md
-      - learn/study-skills/focused-and-diffuse.md
-      - learn/study-skills/chunky.md
-      - learn/study-skills/spaced-repetition.md
-      - learn/study-skills/memory.md
+      - learn/study_skills/index.md
+      - learn/study_skills/focused-and-diffuse.md
+      - learn/study_skills/chunky.md
+      - learn/study_skills/spaced-repetition.md
+      - learn/study_skills/memory.md
   - Blog:
     - blog/index.md
   - about.md
