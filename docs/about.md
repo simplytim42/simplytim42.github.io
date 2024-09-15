@@ -30,7 +30,7 @@ hide:
 
 
 ## Summary
-Highly skilled Full Stack Developer from an aeronautical background with 14 years of experience in technical roles within UK Defence.
+Highly skilled Full Stack Developer from a military background with 15 years of experience in technical roles within and for UK Defence.
 
 Specialised in Software Development since 2018. Dedicated to the craftsmanship of clean and maintainable code. Excellent communication skills :speaking_head: with experience briefing senior executives. Experience working in teams using Scrum. Experience keeping legacy systems operational as well as implementing cutting-edge technologies. Proven track record of success in improving processes and implementing innovative solutions.
 
@@ -65,7 +65,7 @@ Specialised in Software Development since 2018. Dedicated to the craftsmanship o
     - :simple-git: Git
     - :material-infinity: CI Pipelines
     - :simple-docker: Docker
-    - :simple-azuredevops: Azure Devops
+    - :simple-gitlab: Gitlab
     - :simple-visualstudiocode: VS Code
 
 - __Misc__
@@ -81,6 +81,14 @@ Specialised in Software Development since 2018. Dedicated to the craftsmanship o
 
 
 ## Work Experience
+### Data-Edge Analytics (Contractor)
+*Jan 2024 :material-arrow-right: Present*
+
+- Main Tech Stack: Python, Node.js, Docker, Gitlab, MKDocs
+- Work with data scientists :test_tube: to integrate their code into a larger software eco-system
+- Standardise the containerisation and deployment of data science projects within a monorepo
+- Create, maintain and deploy python packages, with hosted documentation, using CI/CD Gitlab pipelines
+- Standardise data transformation between various data processing libraries
 
 ### Specialist Military Unit Software and AI Team, MoD (Founding Member)
 *Feb 2022 :material-arrow-right: Oct 2023*
@@ -90,7 +98,7 @@ Specialised in Software Development since 2018. Dedicated to the craftsmanship o
 - Developed a robust data pipeline to ingest and visualise telemetry data for enhanced insights and data-driven decision-making
 - Implemented Computer Vision to enhance reconnaissance missions in deployed space
 - Worked on various systems, including Frontends, REST APIs, Databases, Raspberry Pi and Sat Comms :satellite_orbital:
-- Gained fundamental knowledge of Machine Learning technologies :robot: such as facial recognition, object detection, motion detection, sentiment analysis and word embeddings
+- Gained fundamental knowledge of Machine Learning technologies such as facial recognition, object detection, motion detection, sentiment analysis and word embeddings
 
 ### No1 Aeronautical Information Documents Unit, Royal Air Force
 *Aug 2018 :material-arrow-right: Feb 2022*
@@ -100,10 +108,10 @@ Specialised in Software Development since 2018. Dedicated to the craftsmanship o
 - Sole developer of [MilFLIP](https://www.aidu.mod.uk/Milflip/) for two and a half years: I validated requirements, designed and implemented new features, tested and deployed each release
 - Mitigated critical security vulnerabilities :lock: in alignment with [OWASP Top 10](https://owasp.org/Top10/) guidelines, ensuring robust security measures
 - Introduced dependency management, standardised API endpoints, and created a comprehensive README
-- Implemented end-to-end automated testing :test_tube: with [Cypress](https://www.cypress.io)
+- Implemented end-to-end automated testing with [Cypress](https://www.cypress.io)
 - Progressively refactored key areas of the website to use Object-Oriented Programming
 - Implemented project and knowledge management with Jira and Confluence
-- Trained :man_teacher: three junior developers and up-skilled two line managers
+- Trained three junior developers and up-skilled two line managers
 
 
 ### Before 2018
@@ -112,6 +120,6 @@ In 2009, I embarked on my journey with the Royal Air Force as an Aeronautical Ca
 
 - Maintained a database of flight procedures for autopilot systems
 - Implemented over two hundred QA data checks using SQL that led to the improvement of tens of thousands of data records :chart_with_upwards_trend:
-- Spearheaded a pivot to focus heavily on satellite-based flight procedures :satellite_orbital:, enabling RAF squadrons to embrace modern aviation practices
+- Spearheaded a pivot to focus heavily on satellite-based flight procedures, enabling RAF squadrons to embrace modern aviation practices
 - Conducted QA checks on aeronautical charts generated from data
-- Created technical documentation :bookmark: to aid colleagues and improve data quality
+- Created technical documentation to aid colleagues and improve data quality
