@@ -1,13 +1,30 @@
+---
+draft: true
+authors:
+  - tim
+date:
+  created: 2024-06-04
+categories:
+  - Learning
+tags:
+  - education
+  - study
+  - memory
+  - personal-development
+---
+
 # Spaced Repetition
 Spaced Repetition is the systematic increasing of time between recalling a piece of information. Starting regularly and eventually waiting weeks or even months as the information becomes solidified in long-term memory.
 
 Before we get into the "how" of Spaced Repetition, let's talk about what problem it solves.
 
+<!-- more -->
+
 ## The Forgetting Curve :confused:
 When we learn a new piece of information, our brain can retain it for a small amount of time before it is forgotten. But each time we recall the information, it takes longer to forget. We have strengthened the neural pathway.
 
 <figure markdown="span">
-  ![A graph showing the forgetting curve](../../diagrams/study_skills/forgetting_curve.svg){ loading=lazy }
+  ![A graph showing the forgetting curve](../../../diagrams/study_skills/forgetting_curve.svg){ loading=lazy }
   <figurecaption>The Forgetting Curve</figurecaption>
 </figure>
 
@@ -19,7 +36,7 @@ If you do nothing else, the grass will straighten, the infant pathway you made w
 But being the clever sausage that you are, you recognise this. Just as the pathway is beginning to fade, you venture out to the box — you recall the information. This act, combined with the first, strengthens the pathway. It'll now take longer before the pathway disappears.
 
 <figure markdown="span">
-  ![An image of a man walking a dirt pathway through an overgrown field.](../../img/study_skills/meadow-with-track.webp){ width="600", loading=lazy }
+  ![An image of a man walking a dirt pathway through an overgrown field.](../../../img/learning/meadow-with-track.webp){ width="600", loading=lazy }
 </figure>
 
 You repeat this process. Systematically venturing out to the box — recalling the information. Increasing the time between each trip. Until you have a dirt track. A clear pathway that is so easy to follow you can do it subconsciously. But there's a catch. If that dirt track is never walked again, it will eventually return to an overgrown field. It'll just take a long time.
@@ -27,19 +44,18 @@ You repeat this process. Systematically venturing out to the box — recalling t
 Thus, we have the forgetting curve. Each time we recall a piece of information, we are strengthening the _neural pathways_ in our brain and lengthening the time before those pathways are overgrown and the information forgotten.
 
 
-
 ## Spaced Repetition
 
-A wonderfully logical way to combat the forgetting curve is to practice Spaced Repetition. Once you have identified an idea or concept and created a [chunk](./chunky.md#what-is-a-chunk) of information in your mind, capture that chunk in the form of a [flashcard](https://en.wikipedia.org/wiki/Flashcard). Read the question. Once you've thought of an answer, turn over the flashcard and check if you're right.
+A wonderfully logical way to combat the forgetting curve is to practice Spaced Repetition. Once you have identified an idea or concept and created a [chunk](./chunk-it-up.md) of information in your mind, capture that chunk in the form of a [flashcard](https://en.wikipedia.org/wiki/Flashcard). Read the question. Once you've thought of an answer, turn over the flashcard and check if you're right.
 
 Wait a few hours and then test yourself again. If you get the answer right, then wait until the following day and test yourself again. Continue this pattern of increasing the gap between each test until the knowledge is as rooted in your mind as you need it to be. But if you ever get it wrong, you have to reset and start by testing yourself the following day.
 
 <figure markdown="span">
-  ![A graph showing the affects of spaced repetition on the forgetting curve](../../diagrams/study_skills/spaced_repetition.svg){ loading=lazy }
+  ![A graph showing the affects of spaced repetition on the forgetting curve](../../../diagrams/study_skills/spaced_repetition.svg){ loading=lazy }
   <figurecaption>Spaced Repetition</figurecaption>
 </figure>
 
-If you get an answer wrong, use it as a chance to re-evaluate. Why did you get it wrong? Was the gap between tests was too long for a successful recall? Do you need to grapple with the content further to increase your understanding? Maybe it's a dry topic and you need to find a [creative way](./memory.md) to remember the "boring" topic.
+If you get an answer wrong, use it as a chance to re-evaluate. Why did you get it wrong? Was the gap between tests was too long for a successful recall? Do you need to grapple with the content further to increase your understanding? Maybe it's a dry topic and you need to find a [creative way](./how-to-remember-anything.md) to remember the "boring" topic.
 
 
 ## Automate With Anki

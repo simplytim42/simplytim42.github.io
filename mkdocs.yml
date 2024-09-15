@@ -119,7 +119,7 @@ plugins:
       categories_allowed:
         - Artificial Intelligence
         - Contemplations
-        - Education
+        - Learning
       # don't show the draft posts when building the site for prod
       # this is the default but I'm being explicit in case it changes in the future
       draft: false
@@ -127,13 +127,6 @@ plugins:
 # Site Navigation
 nav:
   - index.md
-  - Learn:
-    - Study Skills:
-      - learn/study_skills/index.md
-      - learn/study_skills/focused-and-diffuse.md
-      - learn/study_skills/chunky.md
-      - learn/study_skills/spaced-repetition.md
-      - learn/study_skills/memory.md
   - Blog:
     - blog/index.md
   - about.md
