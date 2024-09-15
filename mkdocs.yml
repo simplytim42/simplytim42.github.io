@@ -127,6 +127,7 @@ plugins:
 # Site Navigation
 nav:
   - index.md
+  - Self-Taught Degree: self-taught-degree.md
   - Blog:
     - blog/index.md
   - about.md
