@@ -1,6 +1,6 @@
 ---
-title: Home
-description: Welcome to my site
+title: Self-Taught Degree
+description: The curriculum for my self-taught degree
 hide:
   - navigation
 ---

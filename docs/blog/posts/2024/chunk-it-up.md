@@ -1,4 +1,21 @@
+---
+authors:
+  - tim
+date:
+  created: 2024-05-28
+categories:
+  - Learning
+tags:
+  - education
+  - study
+  - personal-development
+---
+
 # Chunk It Up!
+
+In the fast-paced world of learning, mastering new information can feel overwhelming. Whether you're tackling a new programming language, absorbing complex technical concepts, or even learning a new skill, our brains are constantly bombarded with data. To manage this flood of information, one of the most effective and natural strategies is _chunking_.
+
+<!-- more -->
 
 ## What is a Chunk?
 Chunking is an amazing and surprisingly natural way to learn new information. The basic idea is to isolate a piece of information as a single unit. This could be a concept or a fact etc. Sometimes these chunks may forever stay a single unit, but often as you continue to learn they compound into new chunks and link to other chunks. Let me demonstrate using a concept with which most of us should be familiar.
@@ -8,7 +25,7 @@ As children we are initially taught to recognise single letters. We go over them
 To begin with it's a lengthy task of processing each letter one by one before we know what the word is. But soon that particular combination of letters becomes one whole word. At this point the word is now its own _Chunk_. A composite of smaller _Chunks_ if you will. At this point we only look at the word and the meaning of all the letters combined enters into our mind.
 
 <figure markdown="span">
-  ![](../../diagrams/study_skills/chunks.svg)
+  ![](../../../diagrams/study_skills/chunks.svg)
 </figure>
 
 ## Why is this Relevant?
@@ -21,19 +38,19 @@ Going back to the reading example, we progress from reading letters, to reading 
 This is the end goal: for the information we are studying to become second nature. Your brain is going to chunk the information whether you consciously help it or not. Might as well lend a hand, right?
 
 <figure markdown="span">
-  ![A puzzle coming together piece by piece.](../../img/study_skills/puzzle.webp){ width="600", loading=lazy }
+  ![A puzzle coming together piece by piece.](../../../img/learning/puzzle.webp){ width="600", loading=lazy }
 </figure>
 
 
-## Best Way to Create a Chunk
+## The Best Way to Create a Chunk
 ### Focus
-Engage [Focus Mode](./focused-and-diffuse.md#focused)! You start by focusing intentionally on the information you are learning. Actively minimise distractions.
+Engage [Focus Mode](./the-two-learning-modes.md#focused)! You start by focusing intentionally on the information you are learning. Actively minimise distractions.
 
 ### Understand
-Take the time to ensure that you understand the information. Split your time between [Focus and Diffuse](./focused-and-diffuse.md#combine-the-two) modes to help your brain process the new information, especially if you find the topic difficult. Follow along with any example problems and ensure you understand the purpose of each step in the solution. Test yourself to validate your understanding. Many educational resources provide additional problem sets to reinforce learning.
+Take the time to ensure that you understand the information. Split your time between [Focus and Diffuse](./the-two-learning-modes.md#combine-the-two) modes to help your brain process the new information, especially if you find the topic difficult. Follow along with any example problems and ensure you understand the purpose of each step in the solution. Test yourself to validate your understanding. Many educational resources provide additional problem sets to reinforce learning.
 
 !!! tip
-    LLMs such as ChatGPT are excellent resources that can generate additional questions that you can use to test yourself. But make sure instruct the LLM to double check its own answers so you aren't led off course.
+    LLMs such as ChatGPT are excellent resources that can generate additional questions that you can use to test yourself. But make sure you instruct the LLM to double check its own answers so you aren't led off course.
 
 ### Contextualise
 Knowledge needs to be applied in order to be useful. Once you understand the chunk, make sure you know _when_ to use it. If your resource doesn't adequately explain this then you may have to do your own research. I have personally used ChatGPT many times to shine a light on when something would need to be used. There is little purpose having a screwdriver if you can't recognise an opportunity to use it!
@@ -41,7 +58,7 @@ Knowledge needs to be applied in order to be useful. Once you understand the chu
 This step will help you see how the chunk fits into its surroundings. It will give you a peak at the bigger picture. And each time you recognise when one chunk connects to another via the big picture, you reinforce both chunks! Two for the price of one.
 
 
-## Recall What You Learn :brain:
+## The Best Way to Remember a Chunk :brain:
 A common habit for learners is to re-read material as a form of studying. And when you gloss over the material — or your own notes — and _recognise_ the information it can lead to a false sense of knowledge. 
 
 !!! warning

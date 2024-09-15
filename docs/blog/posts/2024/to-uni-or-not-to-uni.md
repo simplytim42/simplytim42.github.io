@@ -3,7 +3,7 @@ authors:
   - tim
 date: 2024-03-19
 categories:
-  - Education
+  - Learning
 tags:
   - education
   - university

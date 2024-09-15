@@ -1,6 +1,22 @@
+---
+draft: true
+authors:
+  - tim
+date:
+  created: 2024-06-11
+categories:
+  - Learning
+tags:
+  - education
+  - study
+  - memory
+  - personal-development
+---
 # How To Remember Anything
 
 Unless you have a particularly gifted memory, most people would say their memory is lacking at best. But a lot of what modern day people are trying to remember is surprisingly abstract. A person's name is just a sound that we associate with them. You can't see or feel a date: it's a globally agreed upon framework to structure time that tries its best to fit in with the earth's orbit around the sun. Our brains struggle with abstract.
+
+<!-- more -->
 
 We don't struggle quite so much with visual and spatial memory. You can see a face you haven't seen in years and know that you've met that person before — remembering their name is another question. After a couple of commutes to a new place of work you stop  consciously thinking about how to get there. You can probably remember the layout of a houses you grew up in, or a friends house you used to visit. Can you still remember certain routes from one classroom to another in a school you attended?
 
@@ -16,7 +32,7 @@ Imagine walking up to your front door. You pull the door open only to find yours
 Sitting on your couch is a huge black and white cow! (This represents the milk.) It's even sitting like a human would. What sounds might it be making? Can you smell the fresh cow pats? Your presence frightens the cow and it begins throwing eggs at you in defiance. You can feel the eggs smashing and cracking against your body and even feel the egg white dripping down your face.
 
 <figure markdown="span">
-  ![A cow sitting on a sofa throwing eggs at you.](../../img/study_skills/cow-throwing-eggs.webp){ width="600", loading=lazy }
+  ![A cow sitting on a sofa throwing eggs at you.](../../../img/learning/cow-throwing-eggs.webp){ width="600", loading=lazy }
 </figure>
 
 I hope you get the idea. Identify anchor points in your memory palace to attach creative images to. In this example I only used two anchor points: the front door and the couch. As you need to remember more things you just increase the journey around your memory palace, adding items to specific anchor points. Some people get really creative with anchor points. I have read about people using their wallets and using each corner of each bank card used as an anchor for different information!
@@ -47,7 +63,7 @@ With the advent of LLMs such as ChatGPT, we can get the best of both worlds: rec
 
 
 ## Combinations
-Each of the above techniques will be worth exploring and trying out. But the real benefit will come as you learn to combine them. For example: handwriting your notes, using those notes to come up with memorable metaphors, sentences, songs etc and then finding creative ways to store those "artifacts" in a memory palace! To begin with, a memorable sentence may start off as a collection of [chunks](./chunky.md#what-is-a-chunk), but once the sentence is remembered then the whole thing becomes a single chunk and easily brought into your working memory via a memory palace.
+Each of the above techniques will be worth exploring and trying out. But the real benefit will come as you learn to combine them. For example: handwriting your notes, using those notes to come up with memorable metaphors, sentences, songs etc and then finding creative ways to store those "artifacts" in a memory palace! To begin with, a memorable sentence may start off as a collection of [chunks](./chunk-it-up.md), but once the sentence is remembered then the whole thing becomes a single chunk and easily brought into your working memory via a memory palace.
 
 
 --8<-- "includes/books/a-mind-for-numbers.md"
