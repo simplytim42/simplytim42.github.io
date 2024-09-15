@@ -1,5 +1,4 @@
 ---
-draft: true
 authors:
   - tim
 date:
