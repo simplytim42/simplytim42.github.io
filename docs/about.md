@@ -18,7 +18,7 @@ hide:
 
 ---
 
-2023 — Conference Speaker :microphone2: at DSTL [AI Fest 5](https://aifest.online-event.co/registration/ai-fest-2), lauded as a "_confident, clear communicator_" delivering to hundreds of people attending on premise and remotely
+2023 — Conference Speaker :microphone2: at DSTL [AI Fest 5](https://www.gov.uk/government/news/ai-fest-5-bringing-together-top-minds-in-artificial-intelligence), lauded as a "_confident, clear communicator_" delivering to hundreds of people attending on premise and remotely
 
 ---
 
