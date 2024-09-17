@@ -3,6 +3,7 @@ authors:
   - tim
 date:
   created: 2024-06-04
+  updated: 2024-09-17
 categories:
   - Learning
 tags:
@@ -23,11 +24,24 @@ Before we get into the "how" of Spaced Repetition, let's talk about what problem
 When we learn a new piece of information, our brain can retain it for a small amount of time before it is forgotten. But each time we recall the information, it takes longer to forget. We have strengthened the neural pathway.
 
 <figure markdown="span">
-  ![A graph showing the forgetting curve](../../../diagrams/study_skills/forgetting_curve.svg){ loading=lazy }
+  ![A graph showing the forgetting curve](../../../diagrams/learning/forgetting_curve.svg){ loading=lazy }
   <figurecaption>The Forgetting Curve</figurecaption>
 </figure>
 
 
+## Spaced Repetition :grinning:
+A wonderfully logical way to combat the forgetting curve is to practice Spaced Repetition. Once you have identified an idea or concept and created a [chunk](./chunk-it-up.md) of information in your mind, capture that chunk in the form of a [flashcard](https://en.wikipedia.org/wiki/Flashcard). Read the question. Once you've thought of an answer, turn over the flashcard and check if you're right.
+
+Wait a few hours and then test yourself again. If you get the answer right, then wait until the following day and test yourself again. Continue this pattern of increasing the gap between each test until the knowledge is as rooted in your mind as you need it to be. But if you ever get it wrong, you have to reset and start by testing yourself the following day.
+
+<figure markdown="span">
+  ![A graph showing the affects of spaced repetition on the forgetting curve](../../../diagrams/learning/spaced_repetition.svg){ loading=lazy }
+  <figurecaption>The Forgetting Curve affected by Spaced Repetition</figurecaption>
+</figure>
+
+If you get an answer wrong, use it as a chance to re-evaluate. Why did you get it wrong? Was the gap between tests was too long for a successful recall? Do you need to grapple with the content further to increase your understanding? Maybe it's a dry topic and you need to find a [creative way](./how-to-remember-anything.md) to remember the "boring" topic.
+
+## The Field Metaphor
 As an example, imagine your brain as a huge overgrown field. The grass is high and the smell of fresh air is strong. You identify some new information. In our example, imagine this as a box. You need to store the info (the box) somewhere in the field. So, with box in hand, you venture out into the field to find a suitable storage spot. As you walk, some of the grass is bent by your feet and a slight parting is made in the overgrown field. A faint pathway is created. You place the box down and walk back to where you started.
 
 If you do nothing else, the grass will straighten, the infant pathway you made will disappear and there will be no visible evidence that you ever ventured into the field at all! The box will be lost — the information forgotten.
@@ -41,20 +55,6 @@ But being the clever sausage that you are, you recognise this. Just as the pathw
 You repeat this process. Systematically venturing out to the box — recalling the information. Increasing the time between each trip. Until you have a dirt track. A clear pathway that is so easy to follow you can do it subconsciously. But there's a catch. If that dirt track is never walked again, it will eventually return to an overgrown field. It'll just take a long time.
 
 Thus, we have the forgetting curve. Each time we recall a piece of information, we are strengthening the _neural pathways_ in our brain and lengthening the time before those pathways are overgrown and the information forgotten.
-
-
-## Spaced Repetition
-
-A wonderfully logical way to combat the forgetting curve is to practice Spaced Repetition. Once you have identified an idea or concept and created a [chunk](./chunk-it-up.md) of information in your mind, capture that chunk in the form of a [flashcard](https://en.wikipedia.org/wiki/Flashcard). Read the question. Once you've thought of an answer, turn over the flashcard and check if you're right.
-
-Wait a few hours and then test yourself again. If you get the answer right, then wait until the following day and test yourself again. Continue this pattern of increasing the gap between each test until the knowledge is as rooted in your mind as you need it to be. But if you ever get it wrong, you have to reset and start by testing yourself the following day.
-
-<figure markdown="span">
-  ![A graph showing the affects of spaced repetition on the forgetting curve](../../../diagrams/study_skills/spaced_repetition.svg){ loading=lazy }
-  <figurecaption>Spaced Repetition</figurecaption>
-</figure>
-
-If you get an answer wrong, use it as a chance to re-evaluate. Why did you get it wrong? Was the gap between tests was too long for a successful recall? Do you need to grapple with the content further to increase your understanding? Maybe it's a dry topic and you need to find a [creative way](./how-to-remember-anything.md) to remember the "boring" topic.
 
 
 ## Automate With Anki
