@@ -25,7 +25,7 @@ As children we are initially taught to recognise single letters. We go over them
 To begin with it's a lengthy task of processing each letter one by one before we know what the word is. But soon that particular combination of letters becomes one whole word. At this point the word is now its own _Chunk_. A composite of smaller _Chunks_ if you will. At this point we only look at the word and the meaning of all the letters combined enters into our mind.
 
 <figure markdown="span">
-  ![](../../../diagrams/study_skills/chunks.svg)
+  ![](../../../diagrams/learning/chunks.svg)
 </figure>
 
 ## Why is this Relevant?
