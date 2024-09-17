@@ -4,7 +4,7 @@ with open("mkdocs.yml", "r") as file:
     lines = file.readlines()
 
 lines = [
-    re.sub(r"# property: G-8LCP0TZS4Y", "property: G-8LCP0TZS4Y", line)
+    re.sub(r"fake-token", "G-8LCP0TZS4Y", line)
     for line in lines
 ]
 
