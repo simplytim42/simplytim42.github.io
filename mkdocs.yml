@@ -78,7 +78,7 @@ extra:
       name: Tim's Dev.to Page
   analytics:
     provider: google
-    # property: G-8LCP0TZS4Y
+    property: fake-token
 
 # Extensions
 markdown_extensions:
