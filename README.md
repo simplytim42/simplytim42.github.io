@@ -1,5 +1,5 @@
 # My Corner of the Internet
-This is the source code for my [website](https://www.mackaysoftware.com).
+This is the source code for my [website](https://www.theselftaughtdev.io).
 
 It is hosted on Github pages 🚀
 
