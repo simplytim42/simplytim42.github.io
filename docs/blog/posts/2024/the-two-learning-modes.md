@@ -38,7 +38,7 @@ Don't expect the "Aha!" moment all the time. Most of the time you'll find that u
 When you understand the value of _Focused_ and _Diffuse_ modes individually, you can start to intentionally use them together. You can bounce from one to the other and speed up the digestion of new information.
 
 <figure markdown="span">
-  ![A woman reading intently in a library.](../../../img/learning/lady-reading.webp){ width="600", loading=lazy }
+  ![A woman reading intently in a library.](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/learning/lady-reading.webp){ width="600", loading=lazy }
 </figure>
 
 Finished a particularly gruelling article or chapter? Take a walk, go to the gym, do the dishes, listen to some instrumental music. Give yourself permission to STOP studying so that your brain can work more efficiently. There is little purpose in careering forwards into the next module before your brain has created neural connections for the module you just consumed.
