@@ -10,6 +10,13 @@ copyright: Copyright &copy; 2024 Tim MacKay
 # Custom CSS
 extra_css:
   - stylesheets/extra.css
+  - https://unpkg.com/katex@0/dist/katex.min.css
+
+# Custom JS
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 
 # Additional dirs to auto-load changes
 watch:
@@ -100,6 +107,9 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.arithmatex:
+      generic: true
 
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -120,6 +130,7 @@ plugins:
         - Artificial Intelligence
         - Contemplations
         - Learning
+        - Computing Fundamentals
       # don't show the draft posts when building the site for prod
       # this is the default but I'm being explicit in case it changes in the future
       draft: false

@@ -25,7 +25,7 @@ As children we are initially taught to recognise single letters. We go over them
 To begin with it's a lengthy task of processing each letter one by one before we know what the word is. But soon that particular combination of letters becomes one whole word. At this point the word is now its own _Chunk_. A composite of smaller _Chunks_ if you will. At this point we only look at the word and the meaning of all the letters combined enters into our mind.
 
 <figure markdown="span">
-  ![](../../../diagrams/learning/chunks.svg)
+  ![](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/diagrams/learning/chunks.svg)
 </figure>
 
 ## Why is this Relevant?
@@ -38,7 +38,7 @@ Going back to the reading example, we progress from reading letters, to reading 
 This is the end goal: for the information we are studying to become second nature. Your brain is going to chunk the information whether you consciously help it or not. Might as well lend a hand, right?
 
 <figure markdown="span">
-  ![A puzzle coming together piece by piece.](../../../img/learning/puzzle.webp){ width="600", loading=lazy }
+  ![A puzzle coming together piece by piece.](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/learning/puzzle.webp){ width="600", loading=lazy }
 </figure>
 
 

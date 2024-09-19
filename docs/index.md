@@ -7,7 +7,7 @@ hide:
 # The Self-Taught Degree
 
 <figure markdown="span">
-  ![Artistic representation of a self-taught learning journey](img/self-taught.webp){ width="600" }
+  ![Artistic representation of a self-taught learning journey](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/misc/self-taught.webp){ width="600" }
 </figure>
 
 I'm [Tim MacKay](about.md), a self-taught software developer committed to expanding my knowledge. I've opted for a self-directed learning path over a traditional degree, aiming for a mix of practical software skills, computer science fundamentals, and vital life skills like leadership and personal finance. I'll share my journey online, providing a resource for both myself and others.
