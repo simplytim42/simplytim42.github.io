@@ -30,7 +30,7 @@ When we learn a new piece of information, our brain can retain it for a small am
 
 
 ## Spaced Repetition :grinning:
-A wonderfully logical way to combat the forgetting curve is to practice Spaced Repetition. Once you have identified an idea or concept and created a [chunk](./chunk-it-up.md) of information in your mind, capture that chunk in the form of a [flashcard](https://en.wikipedia.org/wiki/Flashcard). Read the question. Once you've thought of an answer, turn over the flashcard and check if you're right.
+A wonderfully logical way to combat the forgetting curve is to practice Spaced Repetition. Once you have identified an idea or concept and created a [chunk](./chunk-it-up.md) of information in your mind, capture that chunk in the form of a [flashcard](https://en.wikipedia.org/wiki/Flashcard){:target="_blank"}. Read the question. Once you've thought of an answer, turn over the flashcard and check if you're right.
 
 Wait a few hours and then test yourself again. If you get the answer right, then wait until the following day and test yourself again. Continue this pattern of increasing the gap between each test until the knowledge is as rooted in your mind as you need it to be. But if you ever get it wrong, you have to reset and start by testing yourself the following day.
 
