@@ -51,4 +51,4 @@ What a world we live in. Access to education has been a barrier for the individu
 
 Watch this space.
 
---8<-- "includes/blog-footer.md"
+--8<-- "includes/gen/blog-footer.md"
