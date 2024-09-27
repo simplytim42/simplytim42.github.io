@@ -71,4 +71,5 @@ Train yourself to identify main ideas. It's tempting to feel you have to remembe
 Taking the practice further requires testing yourself routinely. Flashcards are the traditional technique here. Physical or digital. If you can create the questions yourself then even better! Try to at least test yourself on a subject before you go to sleep and the day after you studied it. The retrieval process helps to ingrain these chunks into our long-term memory. An effective way to implement recall is [Spaced Repetition](./spaced-repetition.md).
 
 
+--8<-- "includes/blog_series/how_we_learn.md"
 --8<-- "includes/books/a-mind-for-numbers.md"

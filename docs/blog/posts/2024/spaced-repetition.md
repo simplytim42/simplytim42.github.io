@@ -67,4 +67,5 @@ Make a habit of using Anki daily so that you benefit from the algorithm's timing
 The internet is full of Anki-related resources so I won't go over the specifics of how to use the software. A quick Google search will lead you to countless blogs and the same goes for videos on YouTube. But be warned: Anki can be insanely simple if you want it to be, or insanely complicated. Keep it simple!
 
 
+--8<-- "includes/blog_series/how_we_learn.md"
 --8<-- "includes/books/a-mind-for-numbers.md"
