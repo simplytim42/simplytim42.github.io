@@ -60,7 +60,7 @@ Thus, we have the forgetting curve. Each time we recall a piece of information, 
 ## Automate With Anki
 If you are someone who loves physical flashcards then you can ignore this section.
 
-[Anki](https://apps.ankiweb.net) is a fantastic spaced repetition tool that automates a lot of the timing decisions for you. All you do is create flashcards inside the app, and the app will take care of figuring out how long to wait before asking you the question again.
+[Anki](https://apps.ankiweb.net){:target="_blank"} is a fantastic spaced repetition tool that automates a lot of the timing decisions for you. All you do is create flashcards inside the app, and the app will take care of figuring out how long to wait before asking you the question again.
 
 Make a habit of using Anki daily so that you benefit from the algorithm's timings. Try to hold off adding a new flashcard until you are sure the information is "chunked" in your mind. Little and often is the key to success. You have to be the tortoise in the race of knowledge, not the hare.
 
