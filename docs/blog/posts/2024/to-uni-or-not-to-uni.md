@@ -20,7 +20,7 @@ I have proven to myself that I can make it as a developer without formal educati
 
 <!-- more -->
 
-This dilemma has played on my mind for a while now. I want knowledge. I want to identify [unknown unknowns](https://en.wikipedia.org/wiki/There_are_unknown_unknowns). I am attracted to the structure that education provides. But I don't want the financial burden of university — I especially don't want to pay for modules I have essentially obtained through personal study and experience.
+This dilemma has played on my mind for a while now. I want knowledge. I want to identify [unknown unknowns](https://en.wikipedia.org/wiki/There_are_unknown_unknowns){:target="_blank"}. I am attracted to the structure that education provides. But I don't want the financial burden of university — I especially don't want to pay for modules I have essentially obtained through personal study and experience.
 
 An idea began to grow: could I do this on my own? :thinking:
 
@@ -29,9 +29,9 @@ A quick search on eBay confirmed I could obtain second-hand materials for Open U
 !!! question "Are you saying we don't need professors anymore?"
     Just to be clear, AI cannot currently replace the expertise and wisdom of an experienced university professor. Perhaps one day. But not today. AI is, however, at a point where it can provide additional insight through investigative conversations, and confirm understanding through targeted Q&A sessions.
 
-    I created my own [GPT](https://chat.openai.com/g/g-wh5eJzMaa-the-cs-software-professor). I instructed it to behave like a CS professor and guide me to answers rather than regurgitate facts. I can even give it photos of pages in books and it will generate questions to test my comprehension! As I learn more about configuring GPTs, I will be able to improve its effectiveness.
+    I created my own [GPT](https://chat.openai.com/g/g-wh5eJzMaa-the-cs-software-professor){:target="_blank"}. I instructed it to behave like a CS professor and guide me to answers rather than regurgitate facts. I can even give it photos of pages in books and it will generate questions to test my comprehension! As I learn more about configuring GPTs, I will be able to improve its effectiveness.
 
-Next, I just needed a curriculum. I used Open University as my baseline to linearise topics. I compared their various Computing & IT pathways and chose the most relevant modules for my career plans. Most of these modules have reading material available second-hand. I then used resources such as [Teach Yourself CS](https://www.teachyourselfcs.com) to identify additional materials to study. I spent some time deciding how deep I would go into each topic and disregarded a few recommendations that I felt would be overkill for my needs. I created a three-stage curriculum.
+Next, I just needed a curriculum. I used Open University as my baseline to linearise topics. I compared their various Computing & IT pathways and chose the most relevant modules for my career plans. Most of these modules have reading material available second-hand. I then used resources such as [Teach Yourself CS](https://www.teachyourselfcs.com){:target="_blank"} to identify additional materials to study. I spent some time deciding how deep I would go into each topic and disregarded a few recommendations that I felt would be overkill for my needs. I created a three-stage curriculum.
 
 Then I began to diverge from the typical university pathway. I began to include books considered by most to be _must-reads_ for anyone working with code. And I fit them around the structure I had already defined.
 

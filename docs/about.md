@@ -18,7 +18,7 @@ hide:
 
 ---
 
-2023 — Conference Speaker :microphone2: at DSTL [AI Fest 5](https://www.gov.uk/government/news/ai-fest-5-bringing-together-top-minds-in-artificial-intelligence), lauded as a "_confident, clear communicator_" delivering to hundreds of people attending on premise and remotely
+2023 — Conference Speaker :microphone2: at DSTL [AI Fest 5](https://www.gov.uk/government/news/ai-fest-5-bringing-together-top-minds-in-artificial-intelligence){:target="_blank"}, lauded as a "*confident, clear communicator*" delivering to hundreds of people attending on premise and remotely
 
 ---
 
@@ -104,11 +104,11 @@ Specialised in Software Development since 2018. Dedicated to the craftsmanship o
 *Aug 2018 :material-arrow-right: Feb 2022*
 
 - Main Tech Stack: PHP, MySQL, Vanilla JavaScript, jQuery, Foundation, CSS, HTML, Git
-- Maintained and improved the [MilFLIP](https://www.aidu.mod.uk/Milflip/) website consisting of 70,000 lines of bespoke code :exploding_head: that enables RAF Squadrons to access flight-critical Aeronautical Information
-- Sole developer of [MilFLIP](https://www.aidu.mod.uk/Milflip/) for two and a half years: I validated requirements, designed and implemented new features, tested and deployed each release
-- Mitigated critical security vulnerabilities :lock: in alignment with [OWASP Top 10](https://owasp.org/Top10/) guidelines, ensuring robust security measures
+- Maintained and improved the [MilFLIP](https://www.aidu.mod.uk/Milflip/){:target="_blank"} website consisting of 70,000 lines of bespoke code :exploding_head: that enables RAF Squadrons to access flight-critical Aeronautical Information
+- Sole developer of [MilFLIP](https://www.aidu.mod.uk/Milflip/){:target="_blank"} for two and a half years: I validated requirements, designed and implemented new features, tested and deployed each release
+- Mitigated critical security vulnerabilities :lock: in alignment with [OWASP Top 10](https://owasp.org/Top10/){:target="_blank"} guidelines, ensuring robust security measures
 - Introduced dependency management, standardised API endpoints, and created a comprehensive README
-- Implemented end-to-end automated testing with [Cypress](https://www.cypress.io)
+- Implemented end-to-end automated testing with [Cypress](https://www.cypress.io){:target="_blank"}
 - Progressively refactored key areas of the website to use Object-Oriented Programming
 - Implemented project and knowledge management with Jira and Confluence
 - Trained three junior developers and up-skilled two line managers

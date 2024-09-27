@@ -1,9 +1,9 @@
 ---
 
-My posts are also hosted on:
+This post is also hosted on:
 
-[:simple-medium:  Medium](https://medium.com/@tim_mackay)
+[:simple-medium:  Medium](https://medium.com/@tim_mackay){:target="_blank"}
 
-[:simple-devdotto:  Dev.to](https://dev.to/simplytim42)
+[:simple-devdotto:  Dev.to](https://dev.to/simplytim42){:target="_blank"}
 
-[:simple-linkedin:  LinkedIn](https://www.linkedin.com/in/tim-mackay-dev/recent-activity/articles/)
+[:simple-linkedin:  LinkedIn](https://www.linkedin.com/in/tim-mackay-dev/recent-activity/articles/){:target="_blank"}

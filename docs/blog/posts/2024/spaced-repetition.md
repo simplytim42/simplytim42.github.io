@@ -30,7 +30,7 @@ When we learn a new piece of information, our brain can retain it for a small am
 
 
 ## Spaced Repetition :grinning:
-A wonderfully logical way to combat the forgetting curve is to practice Spaced Repetition. Once you have identified an idea or concept and created a [chunk](./chunk-it-up.md) of information in your mind, capture that chunk in the form of a [flashcard](https://en.wikipedia.org/wiki/Flashcard). Read the question. Once you've thought of an answer, turn over the flashcard and check if you're right.
+A wonderfully logical way to combat the forgetting curve is to practice Spaced Repetition. Once you have identified an idea or concept and created a [chunk](./chunk-it-up.md) of information in your mind, capture that chunk in the form of a [flashcard](https://en.wikipedia.org/wiki/Flashcard){:target="_blank"}. Read the question. Once you've thought of an answer, turn over the flashcard and check if you're right.
 
 Wait a few hours and then test yourself again. If you get the answer right, then wait until the following day and test yourself again. Continue this pattern of increasing the gap between each test until the knowledge is as rooted in your mind as you need it to be. But if you ever get it wrong, you have to reset and start by testing yourself the following day.
 
@@ -60,7 +60,7 @@ Thus, we have the forgetting curve. Each time we recall a piece of information, 
 ## Automate With Anki
 If you are someone who loves physical flashcards then you can ignore this section.
 
-[Anki](https://apps.ankiweb.net) is a fantastic spaced repetition tool that automates a lot of the timing decisions for you. All you do is create flashcards inside the app, and the app will take care of figuring out how long to wait before asking you the question again.
+[Anki](https://apps.ankiweb.net){:target="_blank"} is a fantastic spaced repetition tool that automates a lot of the timing decisions for you. All you do is create flashcards inside the app, and the app will take care of figuring out how long to wait before asking you the question again.
 
 Make a habit of using Anki daily so that you benefit from the algorithm's timings. Try to hold off adding a new flashcard until you are sure the information is "chunked" in your mind. Little and often is the key to success. You have to be the tortoise in the race of knowledge, not the hare.
 

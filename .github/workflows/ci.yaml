@@ -1,0 +1,27 @@
+name: Continuous Integration
+
+on:
+  pull_request:
+    branches:
+      - '**'
+
+jobs:
+  run-checks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v2
+        with:
+          version: 0.4.16
+      
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: '.python-version'
+      
+      - name: Check External Links
+        run: uv run flag_external_links.py
