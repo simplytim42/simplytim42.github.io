@@ -3,7 +3,6 @@ authors:
   - tim
 date: 2024-02-08
 categories:
-  - Artificial Intelligence
   - Contemplations
 tags:
   - ai
@@ -84,4 +83,4 @@ The future is a mystery. Questions abound more than answers. This may always be 
 
 Either way, I'm excited to see what happens.
 
---8<-- "includes/blog-footer.md"
+--8<-- "includes/gen/blog-footer.md"

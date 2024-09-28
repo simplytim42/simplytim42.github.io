@@ -65,4 +65,5 @@ With the advent of LLMs such as ChatGPT, we can get the best of both worlds: rec
 Each of the above techniques will be worth exploring and trying out. But the real benefit will come as you learn to combine them. For example: handwriting your notes, using those notes to come up with memorable metaphors, sentences, songs etc and then finding creative ways to store those "artifacts" in a memory palace! To begin with, a memorable sentence may start off as a collection of [chunks](./chunk-it-up.md), but once the sentence is remembered then the whole thing becomes a single chunk and easily brought into your working memory via a memory palace.
 
 
+--8<-- "includes/blog_series/how_we_learn.md"
 --8<-- "includes/books/a-mind-for-numbers.md"

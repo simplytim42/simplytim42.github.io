@@ -117,7 +117,7 @@ markdown_extensions:
   - abbr
   - pymdownx.snippets:
       auto_append:
-        - includes/abbreviations.md
+        - includes/gen/abbreviations.md
 
 # Plugins
 plugins:
@@ -127,10 +127,9 @@ plugins:
       post_excerpt: required
       post_url_date_format: yyyy
       categories_allowed:
-        - Artificial Intelligence
         - Contemplations
         - Learning
-        - Computing Fundamentals
+        - Computer Science Fundamentals
       # don't show the draft posts when building the site for prod
       # this is the default but I'm being explicit in case it changes in the future
       draft: false
