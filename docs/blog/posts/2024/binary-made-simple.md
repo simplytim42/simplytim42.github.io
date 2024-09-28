@@ -5,7 +5,7 @@ authors:
 date:
   created: 3000-01-01
 categories:
-  - Computing Fundamentals
+  - Computer Science Fundamentals
 tags:
   - computer-science
   - fundamentals

@@ -3,7 +3,6 @@ authors:
   - tim
 date: 2024-02-08
 categories:
-  - Artificial Intelligence
   - Contemplations
 tags:
   - ai
