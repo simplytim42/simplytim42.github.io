@@ -24,4 +24,4 @@ jobs:
           python-version-file: '.python-version'
       
       - name: Check External Links
-        run: uv run flag_external_links.py
+        run: uv run scripts/flag_external_links.py
