@@ -1,8 +1,15 @@
 import os
 import re
+import logging
+
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+)
 
 
 def find_cheeky_links(dir: str) -> bool:
+    logging.info(f"Checking {dir} for cheeky links...")
     link_pattern = re.compile(r'\[([^\]]+)\]\((https?://[^\)]+)\)(?!\{\:target="_blank"\})')
     matches_found = False
 
@@ -21,12 +28,10 @@ def find_cheeky_links(dir: str) -> bool:
 
                 if matches:
                     matches_found = True
-                    print(f"FILE: {file_path}")
 
                     for match in matches:
                         _, url = match
-                        print(f"URL: {url}")
-                    print("---")
+                        logging.info(f"FILE: {file_path} | URL: {url}")
     return matches_found
 
 
@@ -34,5 +39,6 @@ if __name__ == "__main__":
     check_1 = find_cheeky_links("./docs")
     check_2 = find_cheeky_links("./includes")
     if check_1 or check_2:
-        print("ADD: {:target=\"_blank\"}")
+        logging.info("ADD: {:target=\"_blank\"}")
         raise SystemExit(1)
+    logging.info("No cheeky links found 🤓")
