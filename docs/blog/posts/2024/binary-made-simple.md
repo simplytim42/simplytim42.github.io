@@ -36,7 +36,7 @@ In everyday life, when we count we typically use the decimal numbering system. I
 - 1 = one unit
 - 2 = two units, etc. 
 
-When we reach ten units, we reset our units to zero and add another digit to the left and then continue incrementing the unit. This new digit to the left represents a multiple of 10, hence this creates the "tens" column. Each column added to the left is another multiple of 10: so the pattern becomes _units, tens, hundreds, thousands_ etc. The below table should be familiar:
+When we reach ten units, we reset our units to zero and add another digit to the left and then continue incrementing the unit. This new digit to the left represents a multiple of 10, creating the "tens" column. Each column added to the left is another multiple of 10: so the pattern becomes _units, tens, hundreds, thousands_ etc. The table below should be familiar:
 
 | Thousands | Hundreds | Tens | Units | Name | Number |
 |:---------:|:--------:|:----:|:-----:|:----:|:------:|
@@ -61,7 +61,7 @@ The binary numbering system is a cousin to the decimal numbering system. It is u
 
 We apply the same process to binary as we do with decimal but use only two digits (0 and 1) and each column is a multiple of 2 instead of 10. This means the pattern for our columns becomes _units, twos, fours, eights, sixteens_ etc.
 
-Take some time to look over this table. Pay close attention to the column names and compare it to the decimal table above. Can you see a pattern?
+Take some time to look over this table. Pay close attention to the column names and compare them to the decimal table above. Can you see a pattern?
 
 | Eight | Four | Two | Unit | Name | Binary Number |
 |:-----:|:----:|:---:|:----:|:----:|:-------------:|
@@ -94,7 +94,7 @@ $32 + 0 + 8 + 4 + 0 + 1 = 45$
 Which means `101101` equals 45. Much easier once you know how it works, right?
 
 ## Practice
-Why don't you apply what you've learnt to the following binary numbers. Once you think you know the answer, click on the "call-out" and it will open to show the answer:
+Apply what you've learnt to the following binary numbers. Once you think you know the answer, click on the "call-out" and it will open to show the answer:
 
 ??? abstract "00000101"
     $0+0+0+0+0+4+0+1=5$
