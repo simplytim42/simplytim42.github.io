@@ -22,7 +22,7 @@ If you don't get this joke now, you will by the end of this article.
 
 ---
 
-Many people find binary intimidating, but it's simpler than you think. If you can count then you can read binary. Today, we will break down this problem by reviewing how we understand numbers and then applying that same logic to binary.
+Many people find binary intimidating, but it's simpler than you think. If you can count, then you can read binary. Today, we will break down this problem by reviewing how we understand numbers and then applying that same logic to binary.
 
 <figure markdown="span">
   ![An abstract painting interweaving technology with swirling clouds.](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/computing-fundamentals/binary.webp){ width="600", loading=lazy }
@@ -34,9 +34,9 @@ In everyday life, when we count we typically use the decimal numbering system. I
 
 - 0 = no units
 - 1 = one unit
-- 2 = two units etc. 
+- 2 = two units, etc. 
 
-When we pass nine units, we reset our units to zero and add another digit to the left and then continue incrementing the unit. This new digit to the left represents a multiple of 10, hence this becomes the "tens" column. Each column added to the left is another multiple of 10: so the pattern becomes _units, tens, hundreds, thousands_ etc. The below table should be familiar:
+When we reach ten units, we reset our units to zero and add another digit to the left and then continue incrementing the unit. This new digit to the left represents a multiple of 10, hence this creates the "tens" column. Each column added to the left is another multiple of 10: so the pattern becomes _units, tens, hundreds, thousands_ etc. The below table should be familiar:
 
 | Thousands | Hundreds | Tens | Units | Name | Number |
 |:---------:|:--------:|:----:|:-----:|:----:|:------:|
@@ -61,7 +61,7 @@ The binary numbering system is a cousin to the decimal numbering system. It is u
 
 We apply the same process to binary as we do with decimal but use only two digits (0 and 1) and each column is a multiple of 2 instead of 10. This means the pattern for our columns becomes _units, twos, fours, eights, sixteens_ etc.
 
-Take some time to look over this table. Pay close attention to the column names and compare it do the decimal table above. Can you see a pattern?
+Take some time to look over this table. Pay close attention to the column names and compare it to the decimal table above. Can you see a pattern?
 
 | Eight | Four | Two | Unit | Name | Binary Number |
 |:-----:|:----:|:---:|:----:|:----:|:-------------:|

@@ -9,3 +9,8 @@ dependencies = [
     "mkdocs-material>=9.5.36",
     "termynal>=0.12.1",
 ]
+
+[tool.uv]
+dev-dependencies = [
+    "openai>=1.50.2",
+]
