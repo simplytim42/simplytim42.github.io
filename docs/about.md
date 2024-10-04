@@ -4,7 +4,7 @@ description: Details of my professional experience
 hide:
   - navigation
 ---
-<div class="my-name" markdown>
+<div class="centered" markdown>
 # Tim MacKay
 </div>
 

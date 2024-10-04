@@ -1,9 +1,37 @@
-.grid.cards ul {
-  list-style-type: none;
+/* BRANDING */
+:root {
+  --md-primary-fg-color: #FF7F29;
+  --md-primary-bg-color: #f4f4f4;
+
+  --md-accent-fg-color: #FF5A29;
 }
 
-div.my-name {
-  text-align: center;
+
+/* LANDING PAGE */
+.landing-logo {
+  padding-bottom: 4em;
+  padding-top: 4em;
+}
+
+.landing-buttons-container {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 1em;
+}
+
+div.tagline > h1 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+figure.landing-img {
+  margin-bottom: 4em;
+  margin-top: 2em;
 }
 
 
@@ -24,4 +52,14 @@ div.my-name {
   background-color: #00bfa5;
   -webkit-mask-image: var(--md-admonition-icon--blog-series);
           mask-image: var(--md-admonition-icon--blog-series);
+}
+
+
+/* GENERAL */
+.grid.cards ul {
+  list-style-type: none;
+}
+
+div.centered {
+  text-align: center;
 }
