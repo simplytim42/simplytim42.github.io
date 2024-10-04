@@ -84,3 +84,4 @@ The future is a mystery. Questions abound more than answers. This may always be 
 Either way, I'm excited to see what happens.
 
 --8<-- "includes/gen/blog-footer.md"
+--8<-- "includes/gen/brandmark.md"

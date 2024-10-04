@@ -107,3 +107,5 @@ Apply what you've learnt to the following binary numbers. Once you think you kno
 
 ??? abstract "11111111"
     $128+64+32+16+8+4+2+1=255$
+
+--8<-- "includes/gen/brandmark.md"
