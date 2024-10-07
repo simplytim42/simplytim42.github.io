@@ -9,6 +9,7 @@ tags:
   - education
   - study
   - personal-development
+description: Unlock faster, deeper learning by tapping into your brain's two powerful modes
 ---
 
 # The Two Learning Modes

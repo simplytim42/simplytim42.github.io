@@ -1,6 +1,6 @@
 ---
 title: Self-Taught Degree
-description: The curriculum for my self-taught degree
+description: The self-taught curriculum
 hide:
   - navigation
 ---

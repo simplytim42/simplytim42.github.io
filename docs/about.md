@@ -1,6 +1,6 @@
 ---
 title: About Me
-description: Details of my professional experience
+description: Who is Tim MacKay?
 hide:
   - navigation
 ---

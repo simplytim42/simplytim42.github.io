@@ -9,6 +9,7 @@ tags:
   - education
   - study
   - personal-development
+description: The technique that turns complex concepts into manageable pieces
 ---
 
 # Chunk It Up!
