@@ -128,6 +128,7 @@ plugins:
         color: "#F4F4F4"
   - glightbox
   - blog:
+      blog_toc: true
       post_excerpt: required
       post_url_date_format: yyyy
       categories_allowed:
