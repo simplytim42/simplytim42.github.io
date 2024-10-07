@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "mkdocs-glightbox>=0.4.0",
     "mkdocs-material[imaging]>=9.5.36",
+    "mkdocs-rss-plugin>=1.15.0",
     "termynal>=0.12.1",
 ]
 
