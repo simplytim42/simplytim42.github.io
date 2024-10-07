@@ -63,3 +63,8 @@ figure.landing-img {
 div.centered {
   text-align: center;
 }
+
+.share-social {
+  font-size: 1.5rem;
+  margin: 1rem;
+}

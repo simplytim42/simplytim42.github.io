@@ -49,4 +49,3 @@ Let the foundation settle before you build on top of it.
 
 --8<-- "includes/blog_series/how_we_learn.md"
 --8<-- "includes/books/a-mind-for-numbers.md"
---8<-- "includes/gen/brandmark.md"

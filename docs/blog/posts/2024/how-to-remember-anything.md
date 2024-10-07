@@ -68,4 +68,3 @@ Each of the above techniques will be worth exploring and trying out. But the rea
 
 --8<-- "includes/blog_series/how_we_learn.md"
 --8<-- "includes/books/a-mind-for-numbers.md"
---8<-- "includes/gen/brandmark.md"

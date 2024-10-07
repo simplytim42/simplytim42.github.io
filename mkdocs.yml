@@ -144,6 +144,9 @@ plugins:
       # this is the default but I'm being explicit in case it changes in the future
       draft: false
 
+hooks:
+  - hooks/socialmedia.py
+
 # Site Navigation
 nav:
   - Home: index.md
