@@ -10,6 +10,7 @@ tags:
   - degree
   - study
   - personal-development
+description: Is a degree essential, or can a self-driven curriculum rival formal education?
 ---
 
 # To Uni, or Not to Uni, That Is My Question

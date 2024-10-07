@@ -10,6 +10,7 @@ tags:
   - innovation
   - future
   - career
+description: Could AI evolve from an assistant to a full-fledged software developer, potentially replacing human coders?
 ---
 # Will Artificial Intelligence Inherit My Software Dev Job?
 

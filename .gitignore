@@ -7,3 +7,6 @@ site
 # system files
 .DS_Store
 .vscode
+
+#caches
+.cache

@@ -11,6 +11,7 @@ tags:
   - study
   - memory
   - personal-development
+description: Master the art of memory by using Spaced Repetition—a technique that turns fleeting knowledge into lasting understanding
 ---
 
 # Spaced Repetition

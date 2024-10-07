@@ -10,6 +10,7 @@ tags:
   - study
   - memory
   - personal-development
+description: Transform abstract facts into unforgettable memories using clever tricks
 ---
 # How To Remember Anything
 

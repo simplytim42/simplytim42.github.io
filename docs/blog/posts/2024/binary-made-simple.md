@@ -9,6 +9,7 @@ categories:
 tags:
   - computer-science
   - fundamentals
+description: Demystify binary and learn to convert 1s and 0s into numbers you recognize
 ---
 
 # Binary Made Simple

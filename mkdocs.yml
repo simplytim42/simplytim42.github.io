@@ -1,7 +1,7 @@
 # Project Information
 site_name: The Self-Taught Dev
 site_author: Tim MacKay
-site_description: Tim MacKay's personal website
+site_description: Studying computer science and sharing the journey
 site_url: https://theselftaughtdev.io
 
 # Copyright
@@ -122,6 +122,10 @@ markdown_extensions:
 # Plugins
 plugins:
   - search
+  - social:
+      cards_layout_options:
+        background_color: "#FF7F29" 
+        color: "#F4F4F4"
   - glightbox
   - blog:
       post_excerpt: required

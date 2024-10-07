@@ -1,6 +1,6 @@
 ---
 title: The Self-Taught Dev
-description: The landing page for The Self-Taught Dev
+description: Welcome to The Self-Taught Dev
 hide:
     - navigation
     - toc
