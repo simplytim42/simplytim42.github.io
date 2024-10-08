@@ -15,7 +15,7 @@ try:
 
     logger.info("Applying google token...")
     lines = [
-        re.sub(r"fake-token", "G-8LCP0TZS4Y", line)
+        re.sub(r"fake-token", "G-9CR821NBE4", line)
         for line in lines
     ]
 
