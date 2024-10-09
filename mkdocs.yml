@@ -137,6 +137,7 @@ plugins:
       post_excerpt: required
       post_url_date_format: yyyy
       categories_allowed:
+        - TODO
         - Contemplations
         - Learning
         - Computer Science Fundamentals
