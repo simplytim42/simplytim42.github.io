@@ -17,11 +17,13 @@ def on_page_markdown(markdown, **kwargs):
     page_title = urllib.parse.quote(page.title+'\n')
 
     return markdown + dedent(f"""
-    <div class="centered" markdown>
-    [:simple-x:]({x_intent}?text={page_title}&url={page_url}){{ .share-social }}
-    [:simple-facebook:]({fb_sharer}?u={page_url}){{ .share-social }}
-    [:simple-linkedin:]({li_sharer}?url={page_url}){{ .share-social }}
-    </div>
+    ??? share-with-friends "Share this articles with your friends?"
+    
+        <div class="centered" markdown>
+        [:simple-x:]({x_intent}?text={page_title}&url={page_url}){{ .share-social }}
+        [:simple-facebook:]({fb_sharer}?u={page_url}){{ .share-social }}
+        [:simple-linkedin:]({li_sharer}?url={page_url}){{ .share-social }}
+        </div>
 
     --8<-- "includes/gen/brandmark.md"
     """)
