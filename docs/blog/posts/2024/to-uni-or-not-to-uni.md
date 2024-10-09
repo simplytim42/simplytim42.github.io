@@ -51,5 +51,3 @@ So as I progress through each module, I shall do what any good student does: I'l
 What a world we live in. Access to education has been a barrier for the individual progress of humans since time began. Those days are long gone. Now it's a matter of grit.
 
 Watch this space.
-
---8<-- "includes/gen/blog-footer.md"

@@ -83,5 +83,3 @@ Maybe human innovation will flourish! There might be a world ahead of us where A
 The future is a mystery. Questions abound more than answers. This may always be the case. How AI will change my role as a software developer is up for debate. I hope the changes feel like improvements to those it affects.
 
 Either way, I'm excited to see what happens.
-
---8<-- "includes/gen/blog-footer.md"
