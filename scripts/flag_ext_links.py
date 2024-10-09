@@ -4,13 +4,14 @@ import logging
 
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    format='%(message)s',
 )
 
 
 def find_cheeky_links(dir: str) -> bool:
     logging.info(f"Checking {dir} for cheeky links...")
-    link_pattern = re.compile(r'\[([^\]]+)\]\((https?://[^\)]+)\)(?!\{\:target="_blank"\})')
+    link_pattern_target_blank = re.compile(r'\[([^\]]+)\]\((https?://[^\)]+)\)(?!\{\:target="_blank"\})')
+    link_pattern_icon = re.compile(r'\[([^\]]+?)(?<!\:octicons\-link\-external\-16\:\{\s\.external\-link\-icon\s\})\]\((https?:\/\/[^\)]+)\)')
     matches_found = False
 
     for root, _, files in os.walk(dir):
@@ -21,17 +22,28 @@ def find_cheeky_links(dir: str) -> bool:
                     content = f.read()
 
                 # Find all links that do not have {:target="_blank"}
-                matches = link_pattern.findall(content)
+                matches_target_blank = link_pattern_target_blank.findall(content)
+
+                # Find all external links that do not use the external link icon
+                matches_icon = link_pattern_icon.findall(content)
 
                 # Ignore image links
-                matches = [match for match in matches if "raw.githubusercontent.com" not in match[1] and "https://github.com/simplytim42.png" not in match[1]]
+                matches_target_blank = [match for match in matches_target_blank if "raw.githubusercontent.com" not in match[1] and "https://github.com/simplytim42.png" not in match[1]]
+                matches_icon = [match for match in matches_icon if "raw.githubusercontent.com" not in match[1] and "https://github.com/simplytim42.png" not in match[1]]
 
-                if matches:
+                if matches_target_blank:
                     matches_found = True
 
-                    for match in matches:
+                    for match in matches_target_blank:
                         _, url = match
-                        logging.info(f"FILE: {file_path} | URL: {url}")
+                        logging.info(f"TARGET--> FILE: {file_path} | URL: {url}")
+                
+                if matches_icon:
+                    matches_found = True
+
+                    for match in matches_icon:
+                        _, url = match
+                        logging.info(f"ICON--> FILE: {file_path} | URL: {url}")
     return matches_found
 
 
@@ -40,5 +52,6 @@ if __name__ == "__main__":
     check_2 = find_cheeky_links("./includes")
     if check_1 or check_2:
         logging.info("ADD: {:target=\"_blank\"}")
+        logging.info("OR: :octicons-link-external-16:{ .external-link-icon }")
         raise SystemExit(1)
     logging.info("No cheeky links found 🤓")

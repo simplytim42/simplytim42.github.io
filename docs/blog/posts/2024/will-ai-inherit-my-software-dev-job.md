@@ -65,14 +65,14 @@ What about leadership? Mentoring junior developers and onboarding new members of
 The role of a developer is rooted in technical skills, but it's the soft skills that bolster a team and keep business goals and technology aligned. AI is currently great at the former, but not so much the latter.
 
 ## Ethical Considerations and Innovation
-But what about further into the future? When AI can be creative intentionally, instead of [on the back of hallucinations](https://www.smartcompany.com.au/technology/artificial-intelligence/openai-ceo-sam-altman-ai-hallucinations/){:target="_blank"}. When it can generate production-ready code consistently and communicate clearly to stakeholders. Could devs be out of a job? :face_with_monocle:
+But what about further into the future? When AI can be creative intentionally, instead of [on the back of hallucinations :octicons-link-external-16:{ .external-link-icon }](https://www.smartcompany.com.au/technology/artificial-intelligence/openai-ceo-sam-altman-ai-hallucinations/){:target="_blank"}. When it can generate production-ready code consistently and communicate clearly to stakeholders. Could devs be out of a job? :face_with_monocle:
 
 
-[These game developers](https://finance.yahoo.com/news/game-being-made-ai-worried-134537455.html){:target="_blank"} are already pushing the limits of what AI can do. And my gut tells me that some companies will push it to the extreme. If there is a buck to be made someone will want to be the first to prove it.  Let's look at some possible consequences if this happened across the industry.
+[These game developers :octicons-link-external-16:{ .external-link-icon }](https://finance.yahoo.com/news/game-being-made-ai-worried-134537455.html){:target="_blank"} are already pushing the limits of what AI can do. And my gut tells me that some companies will push it to the extreme. If there is a buck to be made someone will want to be the first to prove it.  Let's look at some possible consequences if this happened across the industry.
 
 Programming languages have "Core Devs": teams of people who maintain, update and improve the programming languages themselves. Their most important job is implementing security patches. They also fix bugs, improve usability etc. If AI inherits developer jobs, maybe it will inherit the job of a core dev too. Being responsible for the very code that it generates. Can AI be held responsible? :face_with_raised_eyebrow:
 
-Maybe AI will do away with the need for programming languages and default to writing [machine code](https://en.wikipedia.org/wiki/Machine_code){:target="_blank"}. Arguably, all languages are designed to be human-readable and add overhead as a result. If a human doesn't need to read it, then why bother? You'll get more efficient code.
+Maybe AI will do away with the need for programming languages and default to writing [machine code :octicons-link-external-16:{ .external-link-icon }](https://en.wikipedia.org/wiki/Machine_code){:target="_blank"}. Arguably, all languages are designed to be human-readable and add overhead as a result. If a human doesn't need to read it, then why bother? You'll get more efficient code.
 
 _I hope this **never** happens — no matter the autonomy given to a system, we should always be able to verify what it's doing and why._
 

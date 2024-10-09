@@ -68,3 +68,7 @@ div.centered {
   font-size: 1.5rem;
   margin: 1rem;
 }
+
+.external-link-icon {
+  vertical-align: middle !important;
+}
