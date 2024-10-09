@@ -45,7 +45,7 @@ In the same fashion, learning the strings of a guitar (EADGBE), I was taught the
 
 
 ## Songs
-Using the memorable medium of song, we can string together the information we need to learn to make it stick in our minds. Granted, a lot of the content out there is aimed more at younger audiences (such as [MC Grammar](https://www.youtube.com/@MCGrammarTV){:target="_blank"}), but that doesn't stop channels like [AcapellaScience](https://www.youtube.com/@acapellascience){:target="_blank"} from tackling harder subjects. Want to learn coding concepts such as variables and data types through [rap](https://www.youtube.com/watch?v=m7szVmMta-o){:target="_blank"}?
+Using the memorable medium of song, we can string together the information we need to learn to make it stick in our minds. Granted, a lot of the content out there is aimed more at younger audiences (such as [MC Grammar :octicons-link-external-16:{ .external-link-icon }](https://www.youtube.com/@MCGrammarTV){:target="_blank"}), but that doesn't stop channels like [AcapellaScience :octicons-link-external-16:{ .external-link-icon }](https://www.youtube.com/@acapellascience){:target="_blank"} from tackling harder subjects. Want to learn coding concepts such as variables and data types through [rap :octicons-link-external-16:{ .external-link-icon }](https://www.youtube.com/watch?v=m7szVmMta-o){:target="_blank"}?
 
 If you are particularly musical, this technique could see you becoming the person who creates the songs.
 
