@@ -17,7 +17,7 @@ def on_page_markdown(markdown, **kwargs):
     page_title = urllib.parse.quote(page.title+'\n')
 
     return markdown + dedent(f"""
-    ??? share-with-friends "Share this articles with your friends?"
+    ??? share-with-friends "Share this article with your friends?"
     
         <div class="centered" markdown>
         [:simple-x:]({x_intent}?text={page_title}&url={page_url}){{ .share-social }}
