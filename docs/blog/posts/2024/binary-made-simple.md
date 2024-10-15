@@ -9,17 +9,20 @@ categories:
 tags:
   - computer-science
   - fundamentals
-description: Demystify binary and learn to convert 1s and 0s into numbers you recognize
+description: Dive into this user-friendly guide and find out why binary isn't as scary as it seems.
 ---
 
 # Binary Made Simple
 
-!!! quote
-    There are 10 types of people in this world, those who understand binary and those who don't. — _(Unknown)_
-
-If you don't get this joke now, you will by the end of this article.
+Binary numbers might seem mystifying at first glance, but this article breaks it down into familiar logic you use every day. By explaining the parallels between counting in tens and counting in twos, you'll be guided to understand how ones and zeros can represent anything!
 
 <!-- more -->
+
+!!! warning "Joke Alert!"
+    
+    "There are 10 types of people in this world, those who understand binary and those who don't." _(Source Unknown)_
+
+    If you don't get this joke now, you will by the end of this article.
 
 ---
 
