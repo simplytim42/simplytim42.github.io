@@ -10,9 +10,8 @@ tags:
   - computer-science
   - fundamentals
 description: Dive into this user-friendly guide and find out why binary isn't as scary as it seems.
+title: Binary Made Simple
 ---
-
-# Binary Made Simple
 
 Binary numbers might seem mystifying at first glance, but this article breaks it down into familiar logic you use every day. By explaining the parallels between counting in tens and counting in twos, you'll be guided to understand how ones and zeros can represent anything!
 
@@ -29,7 +28,7 @@ Binary numbers might seem mystifying at first glance, but this article breaks it
 Many people find binary intimidating, but it's simpler than you think. If you can count, then you can read binary. Today, we will break down this problem by reviewing how we understand numbers and then applying that same logic to binary.
 
 <figure markdown="span">
-  ![An abstract painting interweaving technology with swirling clouds.](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/computing-fundamentals/binary.webp){ width="600", loading=lazy }
+  ![An abstract painting interweaving technology with swirling clouds.](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/computing-fundamentals/binary.webp){ width="600", loading=lazy, main-image }
 </figure>
 
 
