@@ -10,9 +10,8 @@ tags:
   - computer-science
   - fundamentals
 description: Ever wondered what your internet speed really means? Dive into the intricate details of data measurement and transmission.
+title: From Binary to Data
 ---
-
-# From Binary to Data
 
 Ever wondered how your computer speaks its own language? This article guides you through the basics of bits and bytes, uncovering the mechanisms computers use to store and convey data. We'll see how combinations of bits can represent anything from a single number to a video file and I'll even show you how to understand your internet speed!
 
@@ -47,7 +46,7 @@ That is a great point. Thanks for speaking up.
 To solve this problem we create agreements. For example, when a computer is storing text it follows a standard that says the binary number `1100001` represents the letter `a`, the binary number `1100010` represents the letter `b` and so forth. Once such agreement is [ASCII :octicons-link-external-16:{ .external-link-icon }](https://en.wikipedia.org/wiki/ASCII){:target="_blank"}. Different types of data (audio, video etc) have their own agreements so that a computer can understand what the binary being stored represents.
 
 <figure markdown="span">
-  ![A digital photo being taken of a beautiful countryside](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/computing-fundamentals/digital-photograph.webp){ width="600", loading=lazy }
+  ![A digital photo being taken of a beautiful countryside](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/computing-fundamentals/digital-photograph.webp){ width="600", loading=lazy, main-image }
 </figure>
 
 
