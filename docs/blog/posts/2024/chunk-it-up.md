@@ -10,9 +10,9 @@ tags:
   - study
   - personal-development
 description: The technique that turns complex concepts into manageable pieces
+title: Chunk It Up!
+series: How We Learn
 ---
-
-# Chunk It Up!
 
 In the fast-paced world of learning, mastering new information can feel overwhelming. Whether you're tackling a new programming language, absorbing complex technical concepts, or even learning a new skill, our brains are constantly bombarded with data. To manage this flood of information, one of the most effective and natural strategies is _chunking_.
 
@@ -39,7 +39,7 @@ Going back to the reading example, we progress from reading letters, to reading 
 This is the end goal: for the information we are studying to become second nature. Your brain is going to chunk the information whether you consciously help it or not. Might as well lend a hand, right?
 
 <figure markdown="span">
-  ![A puzzle coming together piece by piece.](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/learning/puzzle.webp){ width="600", loading=lazy }
+  ![A puzzle coming together piece by piece.](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/learning/puzzle.webp){ width="600", loading=lazy, main-image }
 </figure>
 
 
