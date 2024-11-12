@@ -11,8 +11,9 @@ tags:
   - memory
   - personal-development
 description: Transform abstract facts into unforgettable memories using clever tricks
+title: How To Remember Anything
+series: How We Learn
 ---
-# How To Remember Anything
 
 Unless you have a particularly gifted memory, most people would say their memory is lacking at best. But a lot of what modern day people are trying to remember is surprisingly abstract. A person's name is just a sound that we associate with them. You can't see or feel a date: it's a globally agreed upon framework to structure time that tries its best to fit in with the earth's orbit around the sun. Our brains struggle with abstract.
 
@@ -32,7 +33,7 @@ Imagine walking up to your front door. You pull the door open only to find yours
 Sitting on your couch is a huge black and white cow! (This represents the milk.) It's even sitting like a human would. What sounds might it be making? Can you smell the fresh cow pats? Your presence frightens the cow and it begins throwing eggs at you in defiance. You can feel the eggs smashing and cracking against your body and even feel the egg white dripping down your face.
 
 <figure markdown="span">
-  ![A cow sitting on a sofa throwing eggs at you.](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/learning/cow-throwing-eggs.webp){ width="600", loading=lazy }
+  ![A cow sitting on a sofa throwing eggs at you.](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/learning/cow-throwing-eggs.webp){ width="600", loading=lazy, main-image }
 </figure>
 
 I hope you get the idea. Identify anchor points in your memory palace to attach creative images to. In this example I only used two anchor points: the front door and the couch. As you need to remember more things you just increase the journey around your memory palace, adding items to specific anchor points. Some people get really creative with anchor points. I have read about people using their wallets and using each corner of each bank card used as an anchor for different information!

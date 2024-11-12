@@ -10,9 +10,9 @@ tags:
   - todo
   - todo
 description: TODO
+title: TODO
+series: REMOVE IF NONE
 ---
-
-# TITLE TODO
 
 TODO: EXCERPT
 
@@ -21,7 +21,7 @@ TODO: EXCERPT
 [External Link :octicons-link-external-16:{ .external-link-icon }](https://squidfunk.github.io/mkdocs-material/reference/){:target="_blank"}
 
 <figure markdown="span">
-  ![TODO](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/misc/under-construction.webp){ width="600", loading=lazy }
+  ![TODO](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/misc/under-construction.webp){ width="600", loading=lazy, main-image }
 </figure>
 
 TODO: ARTICLE

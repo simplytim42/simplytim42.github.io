@@ -12,9 +12,10 @@ tags:
   - memory
   - personal-development
 description: Master the art of memory by using Spaced Repetition—a technique that turns fleeting knowledge into lasting understanding
+title: Spaced Repetition
+series: How We Learn
 ---
 
-# Spaced Repetition
 Spaced Repetition is the systematic increasing of time between recalling a piece of information. Starting regularly and eventually waiting weeks or even months as the information becomes solidified in long-term memory.
 
 Before we get into the "how" of Spaced Repetition, let's talk about what problem it solves.
@@ -50,7 +51,7 @@ If you do nothing else, the grass will straighten, the infant pathway you made w
 But being the clever sausage that you are, you recognise this. Just as the pathway is beginning to fade, you venture out to the box — you recall the information. This act, combined with the first, strengthens the pathway. It'll now take longer before the pathway disappears.
 
 <figure markdown="span">
-  ![An image of a man walking a dirt pathway through an overgrown field.](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/learning/meadow-with-track.webp){ width="600", loading=lazy }
+  ![An image of a man walking a dirt pathway through an overgrown field.](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/learning/meadow-with-track.webp){ width="600", loading=lazy, main-image }
 </figure>
 
 You repeat this process. Systematically venturing out to the box — recalling the information. Increasing the time between each trip. Until you have a dirt track. A clear pathway that is so easy to follow you can do it subconsciously. But there's a catch. If that dirt track is never walked again, it will eventually return to an overgrown field. It'll just take a long time.
