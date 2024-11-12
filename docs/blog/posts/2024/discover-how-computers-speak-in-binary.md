@@ -9,8 +9,8 @@ categories:
 tags:
   - computer-science
   - fundamentals
-description: Ever wondered what your internet speed really means? Dive into the intricate details of data measurement and transmission.
-title: From Binary to Data
+description: Unravel how computers transform binary code into data, and learn to decode your internet speed in this enlightening exploration of bits and bytes.
+title: Discover How Computers Speak in Binary
 ---
 
 Ever wondered how your computer speaks its own language? This article guides you through the basics of bits and bytes, uncovering the mechanisms computers use to store and convey data. We'll see how combinations of bits can represent anything from a single number to a video file and I'll even show you how to understand your internet speed!
