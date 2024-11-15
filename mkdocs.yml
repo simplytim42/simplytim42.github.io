@@ -69,20 +69,21 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/simplytim42
+      link: https://github.com/theselftaughtdev42
       name: Tim's Github
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/tim-mackay-dev
+      link: https://www.linkedin.com/in/theselftaughtdev/
       name: Tim's LinkedIn
-    - icon: fontawesome/regular/envelope
-      link: mailto:cavil.octet.0w@icloud.com
-      name: Tim's Email
     - icon: fontawesome/brands/medium
-      link: https://medium.com/@tim_mackay
+      link: https://medium.com/@theselftaughtdev
       name: Tim's Medium Page
     - icon: simple/devdotto
-      link: https://dev.to/simplytim42
+      link: https://dev.to/theselftaughtdev
       name: Tim's Dev.to Page
+    - icon: simple/dailydotdev
+      link: https://app.daily.dev/theselftaughtdev
+      name: Tim's Daily.dev
+  
   analytics:
     provider: google
     property: fake-token
