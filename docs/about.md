@@ -30,9 +30,9 @@ hide:
 
 
 ## Summary
-Highly skilled Full Stack Developer from a military background with 15 years of experience in technical roles within and for UK Defence.
+Highly skilled Full Stack Developer from a military background with nearly two decades of experience in technical roles within and supporting UK Defence.
 
-Specialised in Software Development since 2018. Dedicated to the craftsmanship of clean and maintainable code. Excellent communication skills :speaking_head: with experience briefing senior executives. Experience working in teams using Scrum. Experience keeping legacy systems operational as well as implementing cutting-edge technologies. Proven track record of success in improving processes and implementing innovative solutions.
+Specialised in Software Development since 2018. Dedicated to the craftsmanship of clean and maintainable code. Excellent communication skills :speaking_head: with experience briefing senior executives. Experience working in teams using Scrum. Experience keeping legacy systems operational as well as implementing cutting-edge technologies. Track record of success in improving processes and implementing innovative solutions.
 
 
 ## Skills & Expertise
