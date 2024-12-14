@@ -49,6 +49,7 @@ theme:
       primary: custom
       accent: custom
   features:
+    - content.code.copy
     - content.tooltips
     - navigation.tabs
     - navigation.indexes
@@ -142,6 +143,7 @@ plugins:
         - Contemplations
         - Learning
         - Computer Science Fundamentals
+        - JavaScript
       # don't show the draft posts when building the site for prod
       # this is the default but I'm being explicit in case it changes in the future
       draft: false
