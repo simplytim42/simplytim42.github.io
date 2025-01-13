@@ -1,32 +1,34 @@
 ---
-draft: true
+draft: false
 authors:
   - tim
 date:
-  created: 3000-01-01
+  created: 2025-01-14
 categories:
   - Computer Science Fundamentals
 tags:
   - computer-science
   - fundamentals
-description: Demystify binary and learn to convert 1s and 0s into numbers you recognize
+description: Discover how binary numbers mirror the familiar decimal system and see how counting in twos can be surprisingly simple.
+title: Binary Made Easy — Understand the Basics
 ---
 
-# Binary Made Simple
-
-!!! quote
-    There are 10 types of people in this world, those who understand binary and those who don't. — _(Unknown)_
-
-If you don't get this joke now, you will by the end of this article.
+Binary numbers might seem mystifying at first glance, but this article breaks it down into familiar logic you use every day. By explaining the parallels between counting in tens and counting in twos, you'll be guided to understand how ones and zeros can represent anything!
 
 <!-- more -->
+
+!!! warning "Joke Alert!"
+    
+    "There are 10 types of people in this world, those who understand binary and those who don't." – _(Source Unknown)_
+
+    If you don't get this joke now, you will by the end of this article.
 
 ---
 
 Many people find binary intimidating, but it's simpler than you think. If you can count, then you can read binary. Today, we will break down this problem by reviewing how we understand numbers and then applying that same logic to binary.
 
 <figure markdown="span">
-  ![An abstract painting interweaving technology with swirling clouds.](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/computing-fundamentals/binary.webp){ width="600", loading=lazy }
+  ![An abstract painting interweaving technology with swirling clouds.](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/computing-fundamentals/binary.webp){ width="600", loading=lazy, main-image }
 </figure>
 
 
@@ -93,19 +95,3 @@ Lastly, add them up:
 $32 + 0 + 8 + 4 + 0 + 1 = 45$
 
 Which means `101101` equals 45. Much easier once you know how it works, right?
-
-## Practice
-Apply what you've learnt to the following binary numbers. Once you think you know the answer, click on the "call-out" and it will open to show the answer:
-
-??? abstract "00000101"
-    $0+0+0+0+0+4+0+1=5$
-
-??? abstract "00011001"
-    $0+0+0+16+8+0+0+1=25$
-
-??? abstract "10101010"
-    $128+0+32+0+8+0+2+0=170$
-
-??? abstract "11111111"
-    $128+64+32+16+8+4+2+1=255$
-
