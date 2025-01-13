@@ -1,9 +1,9 @@
 ---
-draft: true
+draft: false
 authors:
   - tim
 date:
-  created: 3000-01-01
+  created: 2025-01-14
 categories:
   - Computer Science Fundamentals
 tags:
@@ -19,7 +19,7 @@ Binary numbers might seem mystifying at first glance, but this article breaks it
 
 !!! warning "Joke Alert!"
     
-    "There are 10 types of people in this world, those who understand binary and those who don't." _(Source Unknown)_
+    "There are 10 types of people in this world, those who understand binary and those who don't." – _(Source Unknown)_
 
     If you don't get this joke now, you will by the end of this article.
 
@@ -95,19 +95,3 @@ Lastly, add them up:
 $32 + 0 + 8 + 4 + 0 + 1 = 45$
 
 Which means `101101` equals 45. Much easier once you know how it works, right?
-
-## Practice
-Apply what you've learnt to the following binary numbers. Once you think you know the answer, click on the "call-out" and it will open to show the answer:
-
-??? abstract "00000101"
-    $0+0+0+0+0+4+0+1=5$
-
-??? abstract "00011001"
-    $0+0+0+16+8+0+0+1=25$
-
-??? abstract "10101010"
-    $128+0+32+0+8+0+2+0=170$
-
-??? abstract "11111111"
-    $128+64+32+16+8+4+2+1=255$
-
