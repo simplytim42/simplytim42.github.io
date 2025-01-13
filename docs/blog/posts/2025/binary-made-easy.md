@@ -10,7 +10,7 @@ tags:
   - computer-science
   - fundamentals
 description: Discover how binary numbers mirror the familiar decimal system and see how counting in twos can be surprisingly simple.
-title: Binary Made Easy — Understand the Basics
+title: Binary Made Easy
 series: computer-science-intro
 ---
 
