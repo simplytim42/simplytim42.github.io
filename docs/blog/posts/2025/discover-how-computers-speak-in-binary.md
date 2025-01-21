@@ -1,16 +1,17 @@
 ---
-draft: true
+draft: false
 authors:
   - tim
 date:
-  created: 1900-01-01
+  created: 2025-01-21
 categories:
   - Computer Science Fundamentals
 tags:
   - computer-science
   - fundamentals
-description: Unravel how computers transform binary code into data, and learn to decode your internet speed in this enlightening exploration of bits and bytes.
+description: Unravel how computers transform binary code into data, and learn to decode your internet speed.
 title: Discover How Computers Speak in Binary
+series: computer-science-intro
 ---
 
 Ever wondered how your computer speaks its own language? This article guides you through the basics of bits and bytes, uncovering the mechanisms computers use to store and convey data. We'll see how combinations of bits can represent anything from a single number to a video file and I'll even show you how to understand your internet speed!
@@ -89,8 +90,9 @@ gigabits per second = a billion = `Gbps` = 10<sup>9</sup> = `1,000 Mbps`
 terabits per second = a trillion = `Tbps` = 10<sup>12</sup> = `1,000 Gbps`
 
 
-!!! tip "What's up with the k?"
-    
-    Note the rather confusing inconsistency with capitalisation: the lowercase 'k' represents 1,000 in decimal measurements (used to measure data transmission), unlike data storage which often uses a capital 'K' to denote binary measurement :face_with_spiral_eyes:
-    
-    We are not so consistent with mega, giga etc.
+!!! question "What's up with the little k?"
+
+    Note the rather confusing inconsistency with capitalisation: the lowercase 'k' represents 1,000 in decimal measurements (used to measure data transmission), unlike data storage which often uses a capital 'K' to denote binary measurement :face_with_spiral_eyes: We are not so consistent with mega, giga etc.
+
+
+--8<-- "includes/blog_series/computer_science_intro.md"
