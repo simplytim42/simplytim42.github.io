@@ -45,7 +45,7 @@ Specialised in Software Development since 2018. Dedicated to the craftsmanship o
     - :simple-python:  Python
         - :simple-fastapi:  FastAPI
         - :simple-pydantic: Pydantic
-        - :simple-sqlalchemy: SQLAlchemy
+        - :simple-typer: Typer
     - :material-database: SQL
 
 - __Frontend__
@@ -54,6 +54,7 @@ Specialised in Software Development since 2018. Dedicated to the craftsmanship o
     
     - :simple-javascript: JavaScript
         - :simple-react: React
+        - :simple-typescript: TypeScript
     - :simple-css3: CSS
     - :simple-html5: HTML
 
@@ -97,18 +98,14 @@ Specialised in Software Development since 2018. Dedicated to the craftsmanship o
 - Developed a robust data pipeline to ingest and visualise telemetry data for enhanced insights and data-driven decision-making
 - Implemented Computer Vision to enhance reconnaissance missions in deployed space
 - Worked on various systems, including Frontends, REST APIs, Databases, Raspberry Pi and Sat Comms :satellite_orbital:
-- Gained fundamental knowledge of Machine Learning technologies such as facial recognition, object detection, motion detection, sentiment analysis and word embeddings
 
 ### No1 Aeronautical Information Documents Unit, Royal Air Force
 *Aug 2018 :material-arrow-right: Feb 2022*
 
-- Main Tech Stack: PHP, MySQL, Vanilla JavaScript, jQuery, Foundation, CSS, HTML, Git
-- Maintained and improved the [MilFLIP :octicons-link-external-16:{ .external-link-icon }](https://www.aidu.mod.uk/Milflip/){:target="_blank"} website consisting of 70,000 lines of bespoke code :exploding_head: that enables RAF Squadrons to access flight-critical Aeronautical Information
-- Sole developer of [MilFLIP :octicons-link-external-16:{ .external-link-icon }](https://www.aidu.mod.uk/Milflip/){:target="_blank"} for two and a half years: I validated requirements, designed and implemented new features, tested and deployed each release
+- Main Tech Stack: PHP, MySQL, JavaScript, jQuery, Foundation, CSS, HTML, Git
 - Mitigated critical security vulnerabilities :lock: in alignment with [OWASP Top 10 :octicons-link-external-16:{ .external-link-icon }](https://owasp.org/Top10/){:target="_blank"} guidelines, ensuring robust security measures
-- Introduced dependency management, standardised API endpoints, and created a comprehensive README
+- Introduced dependency management and standardised API endpoints
 - Implemented end-to-end automated testing with [Cypress :octicons-link-external-16:{ .external-link-icon }](https://www.cypress.io){:target="_blank"}
-- Progressively refactored key areas of the website to use Object-Oriented Programming
 - Implemented project and knowledge management with Jira and Confluence
 - Trained three junior developers and up-skilled two line managers
 
@@ -119,6 +116,5 @@ In 2009, I embarked on my journey with the Royal Air Force as an Aeronautical Ca
 
 - Maintained a database of flight procedures for autopilot systems
 - Implemented over two hundred QA data checks using SQL that led to the improvement of tens of thousands of data records :chart_with_upwards_trend:
-- Spearheaded a pivot to focus heavily on satellite-based flight procedures, enabling RAF squadrons to embrace modern aviation practices
 - Conducted QA checks on aeronautical charts generated from data
 - Created technical documentation to aid colleagues and improve data quality

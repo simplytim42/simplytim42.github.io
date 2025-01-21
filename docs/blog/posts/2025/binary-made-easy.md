@@ -96,3 +96,5 @@ Lastly, add them up:
 $32 + 0 + 8 + 4 + 0 + 1 = 45$
 
 Which means `101101` equals 45. Much easier once you know how it works, right?
+
+--8<-- "includes/blog_series/computer_science_intro.md"
