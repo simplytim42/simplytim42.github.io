@@ -30,7 +30,7 @@ hide:
 
 
 ## Summary
-Highly skilled Full Stack Developer from a military background with nearly two decades of experience in technical roles within and supporting UK Defence.
+Highly skilled Full Stack Developer from a military background with over 15 years of experience in technical roles within and supporting UK Defence.
 
 Specialised in Software Development since 2018. Dedicated to the craftsmanship of clean and maintainable code. Excellent communication skills :speaking_head: with experience briefing senior executives. Experience working in teams using Scrum. Experience keeping legacy systems operational as well as implementing cutting-edge technologies. Track record of success in improving processes and implementing innovative solutions.
 
@@ -53,8 +53,7 @@ Specialised in Software Development since 2018. Dedicated to the craftsmanship o
     ---
     
     - :simple-javascript: JavaScript
-        - :material-vuejs: Vue
-        - :simple-cypress: Cypress
+        - :simple-react: React
     - :simple-css3: CSS
     - :simple-html5: HTML
 
@@ -66,7 +65,7 @@ Specialised in Software Development since 2018. Dedicated to the craftsmanship o
     - :material-infinity: CI Pipelines
     - :simple-docker: Docker
     - :simple-gitlab: Gitlab
-    - :simple-visualstudiocode: VS Code
+    - :material-microsoft-visual-studio-code: VS Code
 
 - __Misc__
 
@@ -84,7 +83,7 @@ Specialised in Software Development since 2018. Dedicated to the craftsmanship o
 ### Data-Edge Analytics (Contractor)
 *Jan 2024 :material-arrow-right: Present*
 
-- Main Tech Stack: Python, Node.js, Docker, Gitlab, MKDocs
+- Main Tech Stack: Python, Pydantic, Node.js, React, Docker, Gitlab, MKDocs
 - Work with data scientists :test_tube: to integrate their code into a larger software eco-system
 - Standardise the containerisation and deployment of data science projects within a monorepo
 - Create, maintain and deploy python packages, with hosted documentation, using CI/CD Gitlab pipelines
