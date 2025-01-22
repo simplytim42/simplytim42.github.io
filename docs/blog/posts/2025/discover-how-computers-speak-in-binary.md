@@ -44,7 +44,7 @@ In computing, we call an 8-bit pattern a 'byte'. As shown above, this means a si
 
 That is a great point. Thanks for speaking up.
 
-To solve this problem we create agreements. For example, when a computer is storing text it follows a standard that says the binary number `1100001` represents the letter `a`, the binary number `1100010` represents the letter `b` and so forth. Once such agreement is [ASCII :octicons-link-external-16:{ .external-link-icon }](https://en.wikipedia.org/wiki/ASCII){:target="_blank"}. Different types of data (audio, video etc) have their own agreements so that a computer can understand what the binary being stored represents.
+To solve this problem we create agreements. For example, when a computer is storing text it follows a standard that says the binary number `1100001` represents the letter `a`, the binary number `1100010` represents the letter `b` and so forth. Once such agreement is [ASCII](https://en.wikipedia.org/wiki/ASCII){:target="_blank"}. Different types of data (audio, video etc) have their own agreements so that a computer can understand what the binary being stored represents.
 
 <figure markdown="span">
   ![A digital photo being taken of a beautiful countryside](https://raw.githubusercontent.com/simplytim42/turbo-umbrella/refs/heads/main/tstd/computing-fundamentals/digital-photograph.webp){ width="600", loading=lazy, main-image }
@@ -90,7 +90,7 @@ gigabits per second = a billion = `Gbps` = 10<sup>9</sup> = `1,000 Mbps`
 terabits per second = a trillion = `Tbps` = 10<sup>12</sup> = `1,000 Gbps`
 
 
-!!! question "What's up with the little k?"
+!!! question "What's up with the little k in kbps?"
 
     Note the rather confusing inconsistency with capitalisation: the lowercase 'k' represents 1,000 in decimal measurements (used to measure data transmission), unlike data storage which often uses a capital 'K' to denote binary measurement :face_with_spiral_eyes: We are not so consistent with mega, giga etc.
 
