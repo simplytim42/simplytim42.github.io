@@ -358,3 +358,7 @@ _Every resource in this stage is independent and can be completed at any time._
 
 - [ ] Microsoft Azure AI-900
 --8<-- "includes/icons/icon-youtube.md"
+
+- [ ] Touch Typing
+
+- [ ] Give Vim a chance
